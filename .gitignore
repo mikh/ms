@@ -1,0 +1,6 @@
+#eclipse ignore
+.metadata/*
+.classpath
+.project
+*.prefs
+*.class
