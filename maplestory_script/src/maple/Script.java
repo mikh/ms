@@ -1,14 +1,22 @@
 package maple;
 
 import java.awt.AWTException;
+import java.awt.Rectangle;
 import java.awt.Robot;
+import java.awt.Toolkit;
 import java.awt.event.KeyEvent;
+import java.awt.image.BufferedImage;
+import java.io.File;
+import java.io.IOException;
 import java.util.Random;
+
+import javax.imageio.ImageIO;
 
 
 public class Script {
 	
 	public static final int ATTACK = KeyEvent.VK_A;
+	public static final int LOOT_PICKUP = KeyEvent.VK_Z;
 	public static final int TELEPORT = KeyEvent.VK_Q;
 	public static final int JUMP = KeyEvent.VK_ALT;
 	public static final int HEALTH_POTION = KeyEvent.VK_1;
@@ -40,19 +48,24 @@ public class Script {
 	public static void main(String[] args){
 		System.out.println("Starting script");
 		
-		Thread t_attack, t_jump, t_health_potion, t_mana_potion, t_pet_food, t_side_to_side;
+		Thread t_attack, t_jump, t_health_potion, t_mana_potion, t_pet_food, t_side_to_side, t_pickup, t_screenshot;
 		t_attack = new Thread(new keyPressThread(ATTACK, ATTACK_TIMING_MS, 100));
+		t_pickup = new Thread(new keyPressThread(LOOT_PICKUP, 520, 100));
 		//t_attack.setPriority(Thread.MAX_PRIORITY);
 		t_health_potion = new Thread(new keyPressThread(HEALTH_POTION, calculate_HP_timing(), 100));
 		t_mana_potion = new Thread(new keyPressThread(MANA_POTION, calculate_MP_timing(), 100));
 		t_pet_food = new Thread(new keyPressThread(PET_FOOD, 20*60*1000,100));
 		t_side_to_side = new Thread(new moveSideToSideThread(LEFT, RIGHT, UP, TELEPORT,  2*1000,calculate_walk_time(),50));
+		//t_screenshot = new Thread(new screenshotThread(1000,"Images/scrsht"));
+		t_screenshot = new Thread(new keyPressThread(KeyEvent.VK_SCROLL_LOCK, 1000, 100));
 		
 		t_attack.start();
+		t_pickup.start();
 		t_health_potion.start();
 		t_mana_potion.start();
 		t_pet_food.start();
 		t_side_to_side.start();
+		t_screenshot.start();
 		
 		System.out.println("Script complete");
 	}
@@ -133,6 +146,32 @@ class moveSideToSideThread implements Runnable{
 				Thread.sleep(ms_delay);
 			}
 		} catch(AWTException | InterruptedException e){
+			e.printStackTrace();
+		}
+	}
+}
+
+class screenshotThread implements Runnable{
+	int ms_delay;
+	String base;
+	
+	public screenshotThread(int ms_delay, String base){
+		this.ms_delay = ms_delay;
+		this.base = base;
+	}
+	
+	@Override
+	public void run(){
+		try{
+			Robot r = new Robot();
+			int cur_image = 0;
+			while(true){
+				BufferedImage image = r.createScreenCapture(new Rectangle(Toolkit.getDefaultToolkit().getScreenSize()));
+				ImageIO.write(image, "png", new File(base+cur_image+".png"));
+				cur_image++;
+				Thread.sleep(ms_delay);
+			}
+		} catch(AWTException | IOException | InterruptedException e){
 			e.printStackTrace();
 		}
 	}
