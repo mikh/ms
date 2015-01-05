@@ -44,7 +44,12 @@ public class Script {
 		while(System.currentTimeMillis() - start < milliseconds);
 	}
 	
-	
+	public static void main(String[] args){
+		System.out.println("Image test");
+		ImageMatch im = new ImageMatch();
+		im.match_images();
+	}
+	/*
 	public static void main(String[] args){
 		System.out.println("Starting script");
 		
@@ -68,7 +73,7 @@ public class Script {
 		t_screenshot.start();
 		
 		System.out.println("Script complete");
-	}
+	}*/
 	
 	private  static int calculate_MP_timing(){
 		int number_of_attacks_per_minute = 60000/ATTACK_TIMING_MS;
