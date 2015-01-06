@@ -7,6 +7,9 @@ public class Defines {
 	public static final int RIGHT = 2;
 	public static final int LEFT = 3;
 	
+	//behavior defines
+	public static final 
+	
 	//key variables
 	public static final int KEY_PRESS_MS_GENERAL = 80;
 	

@@ -1,5 +1,6 @@
 package maple;
 
+/*
 import org.bytedeco.javacv.*;
 import org.bytedeco.javacpp.*;
 
@@ -8,11 +9,12 @@ import static org.bytedeco.javacpp.opencv_imgproc.*;
 import static org.bytedeco.javacpp.opencv_highgui.*;
 import static org.bytedeco.javacpp.opencv_calib3d.*;
 import static org.bytedeco.javacpp.opencv_objdetect.*;
+*/
 
 public class ImageMatch {
 
 	
-	
+	/*
 	public void match_images(){
 		IplImage src = cvLoadImage("Images/Maple0003.jpg",0);
 		IplImage tmp = cvLoadImage("Images/search_images/golem1.jpg",0);	
@@ -48,7 +50,7 @@ public class ImageMatch {
 		cvReleaseImage(src);
 		cvReleaseImage(tmp);
 		cvReleaseImage(result);
-	}
+	}*/
 	
 //	public static void main(String[] args){
 		/*int width = Integer.parseInt(args[3]);

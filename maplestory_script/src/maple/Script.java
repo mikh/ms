@@ -47,7 +47,7 @@ public class Script {
 	public static void main(String[] args){
 		System.out.println("Image test");
 		ImageMatch im = new ImageMatch();
-		im.match_images();
+	//	im.match_images();
 	}
 	/*
 	public static void main(String[] args){

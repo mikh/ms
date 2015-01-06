@@ -4,7 +4,6 @@ import java.awt.AWTException;
 import java.awt.Robot;
 import java.awt.event.KeyEvent;
 
-import maple.Script;
 import control_structure.Defines;
 
 public class MoveSet {
@@ -70,13 +69,13 @@ public class MoveSet {
 			keyPress(JUMP);
 			break;
 		case Defines.JUMP_RIGHT:
-			keyPress(some_key);
+			directional_jump(Defines.RIGHT);
 			break;
 		case Defines.JUMP_LEFT:
-			keyPress(some_key);
+			directional_jump(Defines.LEFT);
 			break;
 		case Defines.JUMP_DOWN:
-			keyPress(some_key);
+			directional_jump(Defines.DOWN);
 			break;
 		case Defines.MOVE_LEFT:
 			keyPress(MOVE_LEFT, delay);
@@ -154,6 +153,31 @@ public class MoveSet {
 			r.keyPress(key);
 			Defines.delay(override_delay);
 			r.keyRelease(key);
+		} catch(AWTException e){
+			e.printStackTrace();
+		}
+	}
+	
+	private static void directional_jump(int direction){
+		int key_to_use = 0;
+		switch(direction){
+		case Defines.DOWN:
+			key_to_use = MOVE_DOWN;
+			break;
+		case Defines.LEFT:
+			key_to_use = MOVE_LEFT;
+			break;
+		case Defines.RIGHT:
+			key_to_use = MOVE_RIGHT;
+			break;
+		}
+		try{
+			Robot r = new Robot();
+			r.keyPress(key_to_use);
+			r.keyPress(JUMP);
+			Defines.delay(Defines.KEY_PRESS_MS_GENERAL);
+			r.keyRelease(JUMP);
+			r.keyRelease(key_to_use);
 		} catch(AWTException e){
 			e.printStackTrace();
 		}
