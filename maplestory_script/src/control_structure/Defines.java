@@ -2,13 +2,16 @@ package control_structure;
 
 public class Defines {
 	//general defaults
-	public static final int UP = 0;
-	public static final int DOWN = 1;
-	public static final int RIGHT = 2;
-	public static final int LEFT = 3;
+	public static enum direction{UP, DOWN, RIGHT, LEFT};
+	public static enum thread_class{KEY_PRESS_THREAD};
+
 	
 	//behavior defines
-	public static final 
+	public static enum behaviors{NONREACTIVE}; 
+	public static enum behavior_variations{NONREACTIVE_NO_VERTICAL, NONREACTIVE_VERTICAL_TELEPORT, NONREACTIVE_FULL_RANGE};
+	
+	public static final behaviors ACTIVE_BEHAVIOR = behaviors.NONREACTIVE;
+	public static final behavior_variations ACTIVE_VARIATION = behavior_variations.NONREACTIVE_FULL_RANGE;
 	
 	//key variables
 	public static final int KEY_PRESS_MS_GENERAL = 80;
