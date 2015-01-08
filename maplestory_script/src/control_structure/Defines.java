@@ -2,13 +2,17 @@ package control_structure;
 
 public class Defines {
 	//general defaults
-	public static final int UP = 0;
-	public static final int DOWN = 1;
-	public static final int RIGHT = 2;
-	public static final int LEFT = 3;
+	public static enum direction{UP, DOWN, RIGHT, LEFT};
+	public static enum thread_class{KEY_PRESS_THREAD, SUCCESSIVE_KEY_PRESS_THREAD, RANDOM_KEY_PRESS_THREAD};
+	public static final int MINUTE = 60000;
+
 	
 	//behavior defines
-	public static final 
+	public static enum behaviors{NONREACTIVE}; 
+	public static enum behavior_variations{NONREACTIVE_NO_VERTICAL, NONREACTIVE_VERTICAL_TELEPORT, NONREACTIVE_FULL_RANGE};
+	
+	public static final behaviors ACTIVE_BEHAVIOR = behaviors.NONREACTIVE;
+	public static final behavior_variations ACTIVE_VARIATION = behavior_variations.NONREACTIVE_FULL_RANGE;
 	
 	//key variables
 	public static final int KEY_PRESS_MS_GENERAL = 80;
@@ -58,6 +62,32 @@ public class Defines {
 	public static final int TELEPORT_RIGHT = 30;
 	public static final int TELEPORT_LEFT = 31;
 	public static final int TELEPORT_DOWN = 32;
+	
+	//nonreactive behavior defines
+	public static final int ATTACK_TIMING_MS = 1200;
+	public static final int PICKUP_TIMING_MS = 500;
+	public static final int PET_FOOD_TIMING_MS = Defines.MINUTE*10;
+	
+	public static final int DAMAGE_TAKEN_PER_HIT = 85;
+	public static final int HITS_PER_MINUTE = 15;
+	public static final int HEALTH_PER_POTION = 50;
+	public static final int HEALTH_POTION_COOLDOWN = 20;
+	
+	public static final int MP_USED_PER_ATTACK = 17;
+	public static final int MP_PER_POTION = 100;
+	public static final int MANA_POTION_COOLDOWN = 20;
+	
+	public static final int ACCELERATION_TIME = 50;
+	public static final int DEACCELERATION_TIME = 50;
+	public static final int WALK_TIME = 11000;
+	public static final int WALK_ITERATIONS = 35;
+	public static final int WALK_DELAY = 4000;
+	
+	public static final int NUMBER_OF_PLATFORMS = 3;
+	
+	public static final int LADDER_ESCAPE_TIMING = 30000;
+	public static final int LADDER_ESCAPE_DELAY = 500;
+	
 	
 	
 	//functions

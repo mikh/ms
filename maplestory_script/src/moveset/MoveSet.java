@@ -36,46 +36,46 @@ public class MoveSet {
 	public static void action(int type, int delay){
 		switch(type){
 		case Defines.WEAPON_ATTACK:
-			keyPress(WEAPON_ATTACK);
+			keyPress(WEAPON_ATTACK, delay);
 			break;
 		case Defines.SPELL_ATTACK_A:
-			keyPress(SPELL_ATTACK_A);
+			keyPress(SPELL_ATTACK_A, delay);
 			break;
 		case Defines.SPELL_ATTACK_S:
-			keyPress(SPELL_ATTACK_S);
+			keyPress(SPELL_ATTACK_S, delay);
 			break;
 		case Defines.SPELL_ATTACK_D:
-			keyPress(SPELL_ATTACK_D);
+			keyPress(SPELL_ATTACK_D, delay);
 			break;
 		case Defines.SPELL_ATTACK_F:
-			keyPress(SPELL_ATTACK_F);
+			keyPress(SPELL_ATTACK_F, delay);
 			break;
 		case Defines.SPELL_BUFF_Q:
-			keyPress(SPELL_BUFF_Q);
+			keyPress(SPELL_BUFF_Q, delay);
 			break;
 		case Defines.SPELL_BUFF_W:
-			keyPress(SPELL_BUFF_W);
+			keyPress(SPELL_BUFF_W, delay);
 			break;
 		case Defines.SPELL_BUFF_E:
-			keyPress(SPELL_BUFF_E);
+			keyPress(SPELL_BUFF_E, delay);
 			break;
 		case Defines.SPELL_BUFF_R:
-			keyPress(SPELL_BUFF_R);
+			keyPress(SPELL_BUFF_R, delay);
 			break;
 		case Defines.ITEM_PICKUP:
-			keyPress(ITEM_PICKUP);
+			keyPress(ITEM_PICKUP, delay);
 			break;
 		case Defines.JUMP_UP:
-			keyPress(JUMP);
+			keyPress(JUMP, delay);
 			break;
 		case Defines.JUMP_RIGHT:
-			directional_jump(Defines.RIGHT);
+			directional_jump(Defines.direction.RIGHT);
 			break;
 		case Defines.JUMP_LEFT:
-			directional_jump(Defines.LEFT);
+			directional_jump(Defines.direction.LEFT);
 			break;
 		case Defines.JUMP_DOWN:
-			directional_jump(Defines.DOWN);
+			directional_jump(Defines.direction.DOWN);
 			break;
 		case Defines.MOVE_LEFT:
 			keyPress(MOVE_LEFT, delay);
@@ -90,46 +90,46 @@ public class MoveSet {
 			keyPress(MOVE_DOWN, delay);
 			break;
 		case Defines.ITEM_0:
-			keyPress(ITEM_0);
+			keyPress(ITEM_0, delay);
 			break;
 		case Defines.ITEM_1:
-			keyPress(ITEM_1);
+			keyPress(ITEM_1, delay);
 			break;
 		case Defines.ITEM_2:
-			keyPress(ITEM_2);
+			keyPress(ITEM_2, delay);
 			break;
 		case Defines.ITEM_3:
-			keyPress(ITEM_3);
+			keyPress(ITEM_3, delay);
 			break;
 		case Defines.ITEM_4:
-			keyPress(ITEM_4);
+			keyPress(ITEM_4, delay);
 			break;
 		case Defines.ITEM_5:
-			keyPress(ITEM_5);
+			keyPress(ITEM_5, delay);
 			break;
 		case Defines.ITEM_6:
-			keyPress(ITEM_6);
+			keyPress(ITEM_6, delay);
 			break;
 		case Defines.ITEM_7:
-			keyPress(ITEM_7);
+			keyPress(ITEM_7, delay);
 			break;
 		case Defines.ITEM_8:
-			keyPress(ITEM_8);
+			keyPress(ITEM_8, delay);
 			break;
 		case Defines.ITEM_9:
-			keyPress(ITEM_9);
+			keyPress(ITEM_9, delay);
 			break;
 		case Defines.TELEPORT_UP:
-			Luminous_teleport(Defines.UP);
+			Luminous_teleport(Defines.direction.UP);
 			break;
 		case Defines.TELEPORT_RIGHT:
-			Luminous_teleport(Defines.RIGHT);
+			Luminous_teleport(Defines.direction.RIGHT);
 			break;
 		case Defines.TELEPORT_LEFT:
-			Luminous_teleport(Defines.LEFT);
+			Luminous_teleport(Defines.direction.LEFT);
 			break;
 		case Defines.TELEPORT_DOWN:
-			Luminous_teleport(Defines.DOWN);
+			Luminous_teleport(Defines.direction.DOWN);
 			break;
 		default:
 			System.out.println("Unrecognized Command");
@@ -158,16 +158,16 @@ public class MoveSet {
 		}
 	}
 	
-	private static void directional_jump(int direction){
+	private static void directional_jump(Defines.direction direction){
 		int key_to_use = 0;
 		switch(direction){
-		case Defines.DOWN:
+		case DOWN:
 			key_to_use = MOVE_DOWN;
 			break;
-		case Defines.LEFT:
+		case LEFT:
 			key_to_use = MOVE_LEFT;
 			break;
-		case Defines.RIGHT:
+		case RIGHT:
 			key_to_use = MOVE_RIGHT;
 			break;
 		}
@@ -183,20 +183,20 @@ public class MoveSet {
 		}
 	}
 	
-	private static void Luminous_teleport(int direction){
+	private static void Luminous_teleport(Defines.direction direction){
 		if(Defines.CURRENT_CHARCTER == Defines.LUMINOUS){
 			int key_to_use = 0;
 			switch(direction){
-			case Defines.UP:
+			case UP:
 				key_to_use = MOVE_UP;
 				break;
-			case Defines.DOWN:
+			case DOWN:
 				key_to_use = MOVE_DOWN;
 				break;
-			case Defines.LEFT:
+			case LEFT:
 				key_to_use = MOVE_LEFT;
 				break;
-			case Defines.RIGHT:
+			case RIGHT:
 				key_to_use = MOVE_RIGHT;
 				break;
 			}
