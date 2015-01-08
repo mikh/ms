@@ -1,6 +1,7 @@
 package moveset;
 
 import java.util.ArrayList;
+import java.util.Random;
 
 import control_structure.Defines;
 
@@ -16,6 +17,10 @@ public class ThreadManager {
 			System.out.println("Need to pass array lists for SUCCESSIVE_KEY_PRESS_THREAD");
 			return -1;
 		}
+		if(thread_class == Defines.thread_class.RANDOM_KEY_PRESS_THREAD){
+			System.out.println("Need to pass probability values for RANDOM_KEY_PRESS_THREAD");
+			return -1;
+		}
 		threads.add(new_thread);
 		return threads.size()-1;
 	}
@@ -28,8 +33,35 @@ public class ThreadManager {
 		}
 		if(thread_class == Defines.thread_class.SUCCESSIVE_KEY_PRESS_THREAD)
 			new_thread = new Thread(new successiveKeyPressClass(keys, press_delay, iteration_delay, iterations, thread_delay));
+		if(thread_class == Defines.thread_class.RANDOM_KEY_PRESS_THREAD){
+			System.out.println("Need to pass probability values for RANDOM_KEY_PRESS_THREAD");
+			return -1;
+		}
 		threads.add(new_thread);
 		return threads.size()-1;
+	}
+	
+	public int addThread(Defines.thread_class thread_class, int probability, ArrayList<Integer> keyCombos, int keyPressDelay, int thread_delay){
+		Thread new_thread = null;
+		if(thread_class == Defines.thread_class.KEY_PRESS_THREAD){
+			System.out.println("Need to pass int values for KEY_PRESS_THREAD");
+			return -1;
+		}
+		if(thread_class == Defines.thread_class.SUCCESSIVE_KEY_PRESS_THREAD){
+			System.out.println("Need to pass array lists for SUCCESSIVE_KEY_PRESS_THREAD");
+			return -1;
+		}
+		if(thread_class == Defines.thread_class.RANDOM_KEY_PRESS_THREAD){
+			new_thread = new Thread(new randomKeyPressClass(probability, keyCombos, keyPressDelay, thread_delay));
+		}
+		threads.add(new_thread);
+		return threads.size()-1;
+	}
+	
+	public void startThread(int index){
+		if(index >= 0 && index < threads.size()){
+			threads.get(index).start();
+		}
 	}
 }
 
@@ -78,6 +110,33 @@ class successiveKeyPressClass implements Runnable{
 					Thread.sleep(thread_delay.get(ii));
 				}
 			}
+		} catch(InterruptedException e){
+			e.printStackTrace();
+		}
+	}
+}
+
+class randomKeyPressClass implements Runnable{
+	int probability, thread_delay, keyPressDelay;
+	ArrayList<Integer> keyChoices = new ArrayList<Integer>();
+	
+	public randomKeyPressClass(int probability, ArrayList<Integer> keyChoices, int keyPressDelay, int thread_delay){
+		this.probability = probability;
+		this.keyChoices = keyChoices;
+		this.thread_delay = thread_delay;
+		this.keyPressDelay = keyPressDelay;
+	}
+	
+	@Override
+	public void run(){
+		try{
+			while(true){
+				Random r = new Random(System.currentTimeMillis());
+				if(r.nextInt(100) <= probability){
+					MoveSet.action(keyChoices.get(r.nextInt(keyChoices.size())), keyPressDelay);
+				}				
+				Thread.sleep(thread_delay);
+			}			
 		} catch(InterruptedException e){
 			e.printStackTrace();
 		}

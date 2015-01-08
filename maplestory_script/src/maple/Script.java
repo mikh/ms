@@ -43,12 +43,13 @@ public class Script {
 		long start = System.currentTimeMillis();
 		while(System.currentTimeMillis() - start < milliseconds);
 	}
-	
+	/*
 	public static void main(String[] args){
 		System.out.println("Image test");
 		ImageMatch im = new ImageMatch();
 	//	im.match_images();
 	}
+	*/
 	/*
 	public static void main(String[] args){
 		System.out.println("Starting script");
