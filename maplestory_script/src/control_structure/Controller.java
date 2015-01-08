@@ -2,6 +2,7 @@ package control_structure;
 
 import moveset.ThreadManager;
 import behavior.Behavior;
+import behavior.ImageDetectionExperimentBehavior;
 import behavior.NonreactiveBehavior;
 
 public class Controller {
@@ -12,6 +13,10 @@ public class Controller {
 		switch(Defines.ACTIVE_BEHAVIOR){
 		case NONREACTIVE:
 			b = new NonreactiveBehavior(t);
+			break;
+		case IMAGE_DETECTION_EXPERIMENT:
+			b = new ImageDetectionExperimentBehavior(t);
+			break;
 		}
 		Defines.delay(Defines.MINUTE/6);
 		System.out.println("Script Running");
