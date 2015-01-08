@@ -3,7 +3,8 @@ package control_structure;
 public class Defines {
 	//general defaults
 	public static enum direction{UP, DOWN, RIGHT, LEFT};
-	public static enum thread_class{KEY_PRESS_THREAD};
+	public static enum thread_class{KEY_PRESS_THREAD, SUCCESSIVE_KEY_PRESS_THREAD};
+	public static final int MINUTE = 60000;
 
 	
 	//behavior defines
@@ -61,6 +62,19 @@ public class Defines {
 	public static final int TELEPORT_RIGHT = 30;
 	public static final int TELEPORT_LEFT = 31;
 	public static final int TELEPORT_DOWN = 32;
+	
+	//nonreactive behavior defines
+	public static final int ATTACK_TIMING_MS = 1200;
+	public static final int PICKUP_TIMING_MS = 500;
+	public static final int DAMAGE_TAKEN_PER_HIT = 85;
+	public static final int HITS_PER_MINUTE = 20;
+	public static final int HEALTH_PER_POTION = 50;
+	public static final int HEALTH_POTION_COOLDOWN = 20;
+	
+	public static final int MP_USED_PER_ATTACK = 17;
+	public static final int MP_PER_POTION = 100;
+	public static final int MANA_POTION_COOLDOWN = 20;
+	
 	
 	
 	//functions
