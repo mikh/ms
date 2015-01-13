@@ -13,5 +13,6 @@ public class Defines {
 	public static final String DATA_OUTPUT_LOCATION = "data";
 	
 	//web client defines
-	public static final String FIREFOX_EXE = "C:\\Firefox Installs\\firefox.exe";
+	public static final String PATH_DEFINES = "paths.txt";
+	//public static final String FIREFOX_EXE = "C:\\Firefox Installs\\firefox.exe";
 }

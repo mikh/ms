@@ -1,9 +1,14 @@
 package control_structure;
 
+import java.io.File;
+import java.io.IOException;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
+
+import org.ini4j.Ini;
+import org.ini4j.InvalidFileFormatException;
 
 import clipboard.Clip;
 import data_parser.Parser;
@@ -16,12 +21,20 @@ import web.Client;
 public class Control {
 	public static void main(String[] args){
 		System.out.println("Starting downloader");
-		Client c = new Client(Defines.START_URL, null, Defines.FIREFOX_EXE);
+		Ini ini = null;
+		try{
+			ini = new Ini(new File(Defines.PATH_DEFINES));
+		} catch(IOException e){
+			e.printStackTrace();
+		}
+		Client c = new Client(Defines.START_URL, null, ini.get("PATHS", "FIREFOX_EXE"));
 		c.setSelectOption(Defines.SELECT_FIELD_XPATH, Defines.SELECT_FIELD_VALUE);
 		System.out.println("Waiting");
 		RobotController.delay(5000);
 		System.out.println("Done waiting");
+		
 		RobotController.selectAll();
+		RobotController.copy();
 		RobotController.copy();
 		String data = Clip.getTextOnClipboard();
 		FileOps.write_string_to_file("debug0.txt", false, data);

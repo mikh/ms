@@ -19,20 +19,20 @@ public class ImageDetectionExperimentBehavior extends Behavior {
 	}
 	
 	public void match_images(){
-		IplImage src = cvLoadImage("Images/Maple0000.jpg",0);
-		IplImage tmp = cvLoadImage("Images/search_images/character.jpg",0);	
+		IplImage src = cvLoadImage("Images/Maple0009.jpg");
+		IplImage tmp = cvLoadImage("Images/search_images/character_2.jpg",0);	
 			
 		IplImage result = cvCreateImage(cvSize(src.width()-tmp.width()+1, src.height()-tmp.height()+1), IPL_DEPTH_32F, 1);
 //		cvShowImage("Lena Image", result);
 		cvZero(result);
 		 
 		//Match Template Function from OpenCV4
-		//cvShowImage("src", src);
-		//cvShowImage("tmp", tmp);
+		cvShowImage("src", src);
+		cvShowImage("tmp", tmp);
 		
 		cvMatchTemplate(src, tmp, result, CV_TM_CCORR_NORMED);
 		cvShowImage("result4", result);	
-		cvThreshold(result, result, 0.94, 1, CV_THRESH_TOZERO);
+		cvThreshold(result, result, 0.90, 1, CV_THRESH_TOZERO);
 		cvShowImage("result5", result);	
 	//	cvShowImage("result4", result);	
 		DoublePointer min_val = new DoublePointer();
@@ -77,7 +77,7 @@ public class ImageDetectionExperimentBehavior extends Behavior {
 		 
 		cvRectangle(src, maxLoc, point, CvScalar.WHITE, 2, 8, 0);//Draw a Rectangle for Matched Region
 		 
-	//	cvShowImage("Lena Image", src);
+		cvShowImage("Lena Image", src);
 		cvWaitKey(0);
 		cvReleaseImage(src);
 		cvReleaseImage(tmp);

@@ -8,7 +8,7 @@ public class Defines {
 
 	
 	//behavior defines
-	public static enum behaviors{NONREACTIVE, IMAGE_DETECTION_EXPERIMENT}; 
+	public static enum behaviors{NONREACTIVE, IMAGE_DETECTION_EXPERIMENT, IMAGE_DETECTION}; 
 	public static enum behavior_variations{NONREACTIVE_NO_VERTICAL, NONREACTIVE_VERTICAL_TELEPORT, NONREACTIVE_FULL_RANGE};
 	
 	public static final behaviors ACTIVE_BEHAVIOR = behaviors.IMAGE_DETECTION_EXPERIMENT;

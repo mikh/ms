@@ -1,0 +1,2 @@
+[PATHS]
+FIREFOX_EXE=D:\\Firefox Installs\\firefox.exe
