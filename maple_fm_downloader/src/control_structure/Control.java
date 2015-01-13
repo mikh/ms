@@ -1,6 +1,9 @@
 package control_structure;
 
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Date;
 
 import clipboard.Clip;
 import data_parser.Parser;
@@ -50,9 +53,12 @@ public class Control {
 			}
 			
 			ArrayList<data_entry> parsed_data = Parser.parse("data.txt");
-			FileOps.clear_file("final_data.txt");
+			
+			DateFormat df = new SimpleDateFormat("dd_MM_yy_HH_mm_ss");
+			String data_file_name = String.format("%s\\data_%s.txt",Defines.DATA_OUTPUT_LOCATION, df.format(new Date()));
+			FileOps.clear_file(data_file_name);
 			for(data_entry d : parsed_data){
-				FileOps.write_string_to_file("final_data.txt", true, d.print());
+				FileOps.write_string_to_file(data_file_name, true, d.print());
 			}
 		}
 		
