@@ -8,14 +8,14 @@ public class Defines {
 
 	
 	//behavior defines
-	public static enum behaviors{NONREACTIVE, IMAGE_DETECTION_EXPERIMENT, IMAGE_DETECTION}; 
+	public static enum behaviors{NONREACTIVE, IMAGE_DETECTION_EXPERIMENT, IMAGE_DETECTION, NONREACTIVE_MINING}; 
 	public static enum behavior_variations{NONREACTIVE_NO_VERTICAL, NONREACTIVE_VERTICAL_TELEPORT, NONREACTIVE_FULL_RANGE};
 	
-	public static final behaviors ACTIVE_BEHAVIOR = behaviors.IMAGE_DETECTION_EXPERIMENT;
+	public static final behaviors ACTIVE_BEHAVIOR = behaviors.NONREACTIVE_MINING;
 	public static final behavior_variations ACTIVE_VARIATION = behavior_variations.NONREACTIVE_FULL_RANGE;
 	
 	//key variables
-	public static final int KEY_PRESS_MS_GENERAL = 80;
+	public static final int KEY_PRESS_MS_GENERAL = 100;
 	
 	//character defines
 	//0 - general
@@ -54,6 +54,7 @@ public class Defines {
 	public static final int ITEM_7 = 26;
 	public static final int ITEM_8 = 27;
 	public static final int ITEM_9 = 28;
+	public static final int SPACE = 33;
 		
 	
 	//custom character controls
@@ -77,17 +78,18 @@ public class Defines {
 	public static final int MP_PER_POTION = 100;
 	public static final int MANA_POTION_COOLDOWN = 20;
 	
-	public static final int ACCELERATION_TIME = 50;
-	public static final int DEACCELERATION_TIME = 50;
-	public static final int WALK_TIME = 11000;
-	public static final int WALK_ITERATIONS = 35;
-	public static final int WALK_DELAY = 4000;
+	public static final int ACCELERATION_TIME = 20;
+	public static final int DEACCELERATION_TIME = 20;
+	public static final int WALK_TIME = 3500;
+	public static final int WALK_ITERATIONS = 8;
+	public static final int WALK_DELAY = 10000;
 	
 	public static final int NUMBER_OF_PLATFORMS = 3;
 	
 	public static final int LADDER_ESCAPE_TIMING = 30000;
 	public static final int LADDER_ESCAPE_DELAY = 500;
 	
+	public static final int MINING_DELAY = 500;
 	
 	
 	//functions

@@ -4,6 +4,7 @@ import moveset.ThreadManager;
 import behavior.Behavior;
 import behavior.ImageDetectionExperimentBehavior;
 import behavior.NonreactiveBehavior;
+import behavior.NonreactiveMiningBehavior;
 
 public class Controller {
 	public static void main(String[] args){
@@ -16,6 +17,14 @@ public class Controller {
 			break;
 		case IMAGE_DETECTION_EXPERIMENT:
 			b = new ImageDetectionExperimentBehavior(t);
+			break;
+		case IMAGE_DETECTION:
+			break;
+		case NONREACTIVE_MINING:
+			b = new NonreactiveMiningBehavior(t);
+			break;
+		default:
+			System.out.println("Behavior not implemented");
 			break;
 		}
 		Defines.delay(Defines.MINUTE/6);

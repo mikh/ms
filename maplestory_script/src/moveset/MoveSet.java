@@ -32,6 +32,7 @@ public class MoveSet {
 	public static final int ITEM_7 = KeyEvent.VK_7;
 	public static final int ITEM_8 = KeyEvent.VK_8;
 	public static final int ITEM_9 = KeyEvent.VK_9;
+	public static final int SPACE = KeyEvent.VK_SPACE;
 	
 	public static void action(int type, int delay){
 		switch(type){
@@ -118,6 +119,9 @@ public class MoveSet {
 			break;
 		case Defines.ITEM_9:
 			keyPress(ITEM_9, delay);
+			break;
+		case Defines.SPACE:
+			keyPress(SPACE, delay);
 			break;
 		case Defines.TELEPORT_UP:
 			Luminous_teleport(Defines.direction.UP);
