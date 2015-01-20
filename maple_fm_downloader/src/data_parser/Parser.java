@@ -70,15 +70,25 @@ public class Parser {
 				
 			br.close();
 			br = new BufferedReader(new FileReader("seperated_data.txt"));
-			boolean name_set = false;
+			boolean name_set = false, in_category = false;
 			ArrayList<String> parts = new ArrayList<String>();
 			while((line = br.readLine()) != null){
 				line = line.trim();
-				if(line.length() > 0){
+				if(line.startsWith("Category:")){
+					in_category = true;
+				}
+				if(in_category && line.length() > 0){
+					char first_char = line.charAt(0);
+					if(first_char >= '0' && first_char <= '9')
+						in_category = false;
+				}
+				if(line.length() > 0 && !in_category){
 					if(line.equals(seperator.trim())){
 						if(name_set){
 							name_set = false;
 							if(parts.size() >= 8){
+								if(parts.get(0).equals("Category:"))
+									System.out.println("Category here");
 								d.qty = Integer.parseInt(parts.get(0));
 								d.bundle = Integer.parseInt(parts.get(1));
 								d.price = Double.parseDouble(parts.get(2).replace(",", ""));

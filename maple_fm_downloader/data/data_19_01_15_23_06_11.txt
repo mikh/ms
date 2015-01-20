@@ -1,0 +1,1249 @@
+10 Slot Herb Bag                                   - juuree                          q.1     b.1     ch.1  rm.2            48888888 meso
+10 Slot Herb Bag                                   - pbjban                          q.1     b.1     ch.1  rm.1            49999999 meso
+10 Slot Herb Bag                                   - pbjban                          q.1     b.1     ch.1  rm.1            49999999 meso
+10 Slot Mineral Bag                                - juuree                          q.1     b.1     ch.1  rm.2            49999999 meso
+10 Slot Mineral Bag                                - pbjban                          q.0     b.1     ch.1  rm.1            49999999 meso
+12 Slot Herb Bag                                   - StarShineArc                    q.1     b.1     ch.1  rm.2            59999999 meso
+12 Slot Mineral Bag                                - StarShineArc                    q.1     b.1     ch.1  rm.2            99999999 meso
+12 Slot Mineral Bag                                - ThisNameMine                    q.1     b.1     ch.1  rm.2            79999999 meso
+4 Chair Bag                                        - xElit3Magic                     q.1     b.1     ch.1  rm.3            25000000 meso
+8 Slot Herb Bag                                    - StarShineArc                    q.1     b.1     ch.1  rm.2            10999999 meso
+8 Slot Herb Bag                                    - Kuroneko135                     q.1     b.1     ch.1  rm.2            20000000 meso
+8 Slot Herb Bag                                    - Kuroneko135                     q.1     b.1     ch.1  rm.2            20000000 meso
+[A] Nebulite (All Stat %)                          - xCrimmyx                        q.1     b.1     ch.1  rm.4          6099999999 meso
+[A] Nebulite (All Stat %)                          - w33dwiz420x                     q.1     b.1     ch.1  rm.5          7999999999 meso
+[A] Nebulite (Boss Damage)                         - w33dwiz420x                     q.1     b.1     ch.1  rm.5          5999999999 meso
+[A] Nebulite (DEX %)                               - w33dwiz420x                     q.1     b.1     ch.1  rm.5          6999999999 meso
+[A] Nebulite (INT %)                               - w33dwiz420x                     q.1     b.1     ch.1  rm.5          6999999999 meso
+[A] Nebulite (Invincibility)                       - siCky911                        q.1     b.1     ch.1  rm.1           799999999 meso
+[A] Nebulite (LUK %)                               - w33dwiz420x                     q.1     b.1     ch.1  rm.5          6999999999 meso
+[A] Nebulite (Max MP %)                            - Hunniies                        q.1     b.1     ch.1  rm.3           499999999 meso
+[A] Nebulite (Max MP)                              - Hunniies                        q.1     b.1     ch.1  rm.3           499999999 meso
+[A] Nebulite (Skill)                               - w33dwiz420x                     q.2     b.1     ch.1  rm.5          4999999999 meso
+[A] Nebulite (Skill)                               - w33dwiz420x                     q.2     b.1     ch.1  rm.5          4999999999 meso
+[A] Nebulite (STR %)                               - w33dwiz420x                     q.1     b.1     ch.1  rm.5          6999999999 meso
+[A] Nebulite (Weapon ATT %)                        - Jerohab                         q.1     b.1     ch.1  rm.1          3699999999 meso
+[A] Nebulite (Weapon ATT %)                        - Holllup                         q.1     b.1     ch.1  rm.3          4999999999 meso
+[B] Nebulite (Weapon ATT %)                        - StealthLure                     q.1     b.1     ch.1  rm.2           999999999 meso
+[C] Nebulite (DEX %)                               - BigShotWiz                      q.1     b.1     ch.1  rm.5            99999999 meso
+[C] Nebulite (Ignore monster's defense)            - BigShotWiz                      q.2     b.1     ch.1  rm.5           149999999 meso
+[C] Nebulite (Magic Defense %)                     - Holllup                         q.0     b.1     ch.1  rm.3             9999999 meso
+[C] Nebulite (Recovery HP)                         - iDupStePz                       q.1     b.1     ch.1  rm.2            29999999 meso
+[C] Nebulite (STR %)                               - BigShotWiz                      q.1     b.1     ch.1  rm.5           149999999 meso
+[C] Nebulite (Weapon ATT %)                        - Holllup                         q.1     b.1     ch.1  rm.3            99999999 meso
+[D] Nebulite (Face)                                - Holllup                         q.0     b.1     ch.1  rm.3              499999 meso
+[D] Nebulite (Face)                                - Holllup                         q.0     b.1     ch.1  rm.3              499999 meso
+[D] Nebulite (Magic Defense)                       - Holllup                         q.0     b.1     ch.1  rm.3              499999 meso
+[D] Nebulite (Speed)                               - Holllup                         q.0     b.1     ch.1  rm.3              499999 meso
+Absolute Ring Shoulder                             - RyanMeNotYou                    q.1     b.1     ch.1  rm.2           499999999 meso
+Abyss Dead End                                     - Kuroneko135                     q.1     b.1     ch.1  rm.2            25000000 meso
+Accelerator                                        - StarShineArc                    q.6     b.1     ch.1  rm.2             9999999 meso
+Accelerator                                        - IceChloe92                      q.1     b.1     ch.1  rm.1             8888888 meso
+Advanced Defense Pill IV Recipe                    - muskate12                       q.1     b.1     ch.1  rm.2                9999 meso
+Advanced Equip Enhancement Scroll                  - MrRuggy                         q.1     b.1     ch.1  rm.2          9999999999 meso
+Advanced Equip Enhancement Scroll                  - MrRuggy                         q.1     b.1     ch.1  rm.2          9999999999 meso
+Advanced Potential Scroll                          - iDupStePz                       q.1     b.1     ch.1  rm.2            49999999 meso
+Aeolus Aura                                        - Ahkuni                          q.1     b.1     ch.1  rm.1           490000000 meso
+Aeolus Aura                                        - xCrimmyx                        q.1     b.1     ch.1  rm.4           599999999 meso
+Aeolus Aura                                        - Sepxy                           q.1     b.1     ch.1  rm.4           499999999 meso
+Agares Bloody Crimson Zodiac                       - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Agile Tree Branch Nose                             - iDupStePz                       q.1     b.1     ch.1  rm.2            24999999 meso
+Agile Tree Branch Nose                             - iDupStePz                       q.1     b.1     ch.1  rm.2            24999999 meso
+Agile Tree Branch Nose                             - iDupStePz                       q.1     b.1     ch.1  rm.2            24999999 meso
+Agile Tree Branch Nose                             - iDupStePz                       q.1     b.1     ch.1  rm.2            24999999 meso
+Agile Tree Branch Nose                             - iDupStePz                       q.1     b.1     ch.1  rm.2            24999999 meso
+Agile Tree Branch Nose                             - iDupStePz                       q.1     b.1     ch.1  rm.2            24999999 meso
+All Cure Potion                                    - juuree                          q.1     b.1     ch.1  rm.3                7777 meso
+Alma Von Leon Staff                                - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Amaterasu's Axe of a Thousand Blades               - juuree                          q.1     b.1     ch.1  rm.2             7777777 meso
+Amaterasu's Final Wind                             - WhiSoSer1us                     q.1     b.1     ch.1  rm.2             8888888 meso
+Amaterasu's Pelting Rain Recipe                    - juuree                          q.1     b.1     ch.1  rm.2              250000 meso
+Amaterasu's Smoldering Spirit Axe                  - Procloa                         q.1     b.1     ch.1  rm.3             4999999 meso
+Amaterasu's Weeping Spirit Sword                   - WhiSoSer1us                     q.1     b.1     ch.1  rm.2            12222222 meso
+Ame-no-Uzume's Crooked Soul Staff                  - Procloa                         q.1     b.1     ch.1  rm.3             2999999 meso
+Ame-no-Uzume's Crooked Soul Staff                  - IceChloe92                      q.1     b.1     ch.1  rm.1            55555555 meso
+Ancient Tank Chair                                 - Ahkuni                          q.1     b.1     ch.1  rm.1            85000000 meso
+Android (F) Recipe                                 - ArcaneGust                      q.7     b.1     ch.1  rm.4            12999999 meso
+Android (M) Recipe                                 - ArcaneGust                      q.7     b.1     ch.1  rm.4             9999999 meso
+Angel Word Bubble Ring                             - Jerohab                         q.0     b.1     ch.1  rm.1           699999999 meso
+Aquatic Letter Eye Accessory                       - muskate12                       q.0     b.1     ch.1  rm.2             4999999 meso
+Aquatic Letter Eye Accessory                       - StarShineArc                    q.1     b.1     ch.1  rm.2            99999999 meso
+Aquatic Letter Eye Accessory                       - Desmondil                       q.1     b.1     ch.1  rm.2             5499999 meso
+Aquatic Letter Eye Accessory                       - ThisNameMine                    q.1     b.1     ch.1  rm.2             4999999 meso
+Aquatic Letter Eye Accessory                       - IceChloe92                      q.1     b.1     ch.1  rm.1             4999999 meso
+Aquatic Letter Eye Accessory                       - pbjban                          q.0     b.1     ch.1  rm.1             9999999 meso
+Aquatic Letter Eye Accessory                       - Butterfly093                    q.1     b.1     ch.1  rm.3            29999999 meso
+Aquatic Letter Eye Accessory                       - CastleBeast                     q.0     b.1     ch.1  rm.4             9999999 meso
+Aquatic Letter Eye Accessory                       - itztururu                       q.1     b.1     ch.1  rm.4             9999999 meso
+Aquatic Letter Eye Accessory                       - Alphide                         q.1     b.1     ch.1  rm.4            15000000 meso
+Aquatic Letter Eye Accessory                       - WhiSoSer1us                     q.1     b.1     ch.1  rm.2            35555555 meso
+Aquatic Letter Eye Accessory                       - WhiSoSer1us                     q.1     b.1     ch.1  rm.2            35555555 meso
+Atlantis                                           - RyanMeNotYou                    q.1     b.1     ch.1  rm.2           999999999 meso
+Atlantis                                           - Atalor                          q.1     b.1     ch.1  rm.4           700000000 meso
+Azure Crystal Crusher                              - Kuroneko135                     q.1     b.1     ch.1  rm.2           200000000 meso
+Baba Blue                                          - Prokyser                        q.1     b.1     ch.1  rm.1          1999999999 meso
+Balanced Fury                                      - BoaHanco                        q.1     b.1     ch.1  rm.3          9999999999 meso
+Balanced Fury                                      - BoaHanco                        q.1     b.1     ch.1  rm.3          9999999999 meso
+Balanced Fury                                      - BoaHanco                        q.1     b.1     ch.1  rm.3          9999999999 meso
+Balanced Fury                                      - BoaHanco                        q.1     b.1     ch.1  rm.3          9999999999 meso
+Balanced Fury                                      - BoaHanco                        q.1     b.1     ch.1  rm.3          9999999999 meso
+Balanced Fury                                      - BoaHanco                        q.1     b.1     ch.1  rm.3          9999999999 meso
+Balanced Fury                                      - BoaHanco                        q.1     b.1     ch.1  rm.3          9999999999 meso
+Balanced Fury                                      - BoaHanco                        q.1     b.1     ch.1  rm.3          9999999999 meso
+Balanced Fury                                      - BoaHanco                        q.1     b.1     ch.1  rm.3          9999999999 meso
+Balanced Fury                                      - BoaHanco                        q.1     b.1     ch.1  rm.3          9999999999 meso
+Balanced Fury                                      - BoaHanco                        q.1     b.1     ch.1  rm.3          9999999999 meso
+Balanced Fury                                      - BoaHanco                        q.1     b.1     ch.1  rm.3          9999999999 meso
+Balanced Fury                                      - BoaHanco                        q.1     b.1     ch.1  rm.3          9999999999 meso
+Balanced Fury                                      - BoaHanco                        q.1     b.1     ch.1  rm.3          9999999999 meso
+Basic Spell Essence                                - muskate12                       q.202   b.1     ch.1  rm.2                9999 meso
+Big Money Chair                                    - Jerohab                         q.1     b.1     ch.1  rm.1            69999999 meso
+Big Money Chair                                    - Alphide                         q.1     b.1     ch.1  rm.4            50000000 meso
+Big Spider Familiar                                - SoDesuKaXD                      q.0     b.1     ch.1  rm.2             2999999 meso
+Big Spider Familiar                                - SoDesuKaXD                      q.0     b.1     ch.1  rm.2             2999999 meso
+Big Spider Familiar                                - SoDesuKaXD                      q.0     b.1     ch.1  rm.2             2999999 meso
+Big Spider Familiar                                - SoDesuKaXD                      q.0     b.1     ch.1  rm.2             2999999 meso
+Big Spider Familiar                                - SoDesuKaXD                      q.0     b.1     ch.1  rm.2             2999999 meso
+Big Spider Familiar                                - SoDesuKaXD                      q.0     b.1     ch.1  rm.2             2999999 meso
+Big Spider Familiar                                - SoDesuKaXD                      q.0     b.1     ch.1  rm.2             2999999 meso
+Big Spider Familiar                                - SoDesuKaXD                      q.0     b.1     ch.1  rm.2             2999999 meso
+Black Bean Suit                                    - IceChloe92                      q.1     b.1     ch.1  rm.2            24999999 meso
+Black Bean Suit                                    - showdota                        q.1     b.1     ch.1  rm.1            33333333 meso
+Black Bubble Beanie                                - Ahkuni                          q.1     b.1     ch.1  rm.1           390000000 meso
+Black Cat Beanie                                   - yurkuul                         q.1     b.1     ch.1  rm.4           999999999 meso
+Black Cat Beanie                                   - Kaxea                           q.1     b.1     ch.1  rm.4           799999999 meso
+Black Cat Beanie                                   - Atalor                          q.1     b.1     ch.1  rm.4          1000000000 meso
+Black Cat Beanie                                   - Atalor                          q.1     b.1     ch.1  rm.4          1000000000 meso
+Black Garina Gloves                                - xRevengerx94                    q.1     b.1     ch.1  rm.5               55555 meso
+Black Garina Shoes                                 - xRevengerx94                    q.1     b.1     ch.1  rm.5              149999 meso
+Black Garina Shoes                                 - xRevengerx94                    q.1     b.1     ch.1  rm.5               99999 meso
+Black Garina Shoes                                 - zaccytan                        q.1     b.1     ch.1  rm.4             1999999 meso
+Black Skellduke                                    - IceChloe92                      q.1     b.1     ch.1  rm.2           499999999 meso
+Black Skellduke                                    - GuiseAmirite                    q.1     b.1     ch.1  rm.3            79999999 meso
+Black Star Potion                                  - NobleKuraudo                    q.1     b.1     ch.1  rm.1           999999999 meso
+Bloodsoaked Katara                                 - xElit3Magic                     q.1     b.1     ch.1  rm.3            10000000 meso
+Bloody Garter                                      - Kaxea                           q.1     b.1     ch.1  rm.4            39999999 meso
+Blue Arnah Shoes                                   - SneakFreaky                     q.1     b.1     ch.1  rm.1            99999999 meso
+Blue Bird Dream Wings                              - amymikeMULE                     q.1     b.1     ch.1  rm.2           333333333 meso
+Blue Checkered Vacation                            - pbjban                          q.1     b.1     ch.1  rm.1           999999999 meso
+Blue Clarity                                       - xElit3Magic                     q.1     b.1     ch.1  rm.3            10000000 meso
+Blue Elemental Shoes                               - NobleKuraudo                    q.1     b.1     ch.1  rm.1           799999999 meso
+Blue Galaxy                                        - xElit3Magic                     q.1     b.1     ch.1  rm.3            10000000 meso
+Blue Moccasin                                      - lnuka                           q.1     b.1     ch.1  rm.1           115000000 meso
+Blue Pierre Hat                                    - Haya4Kanna                      q.1     b.1     ch.1  rm.6            99999999 meso
+Blue Pierre Hat                                    - Kaxea                           q.1     b.1     ch.1  rm.4            44999999 meso
+Blue Shooting Star Ring                            - xCrimmyx                        q.1     b.1     ch.1  rm.4          4999999999 meso
+Blue Valhalla Helmet                               - Butterfly093                    q.1     b.1     ch.1  rm.3           289999999 meso
+Blue Wing Boots                                    - StMase                          q.1     b.1     ch.1  rm.4              999999 meso
+Bon-Bon Pony Cap                                   - lnuka                           q.1     b.1     ch.1  rm.1            98000000 meso
+Bright Night Owl Chair                             - Jerohab                         q.1     b.1     ch.1  rm.1            54999999 meso
+Brilliant Dusk Essence                             - Procloa                         q.2     b.1     ch.1  rm.3            29999999 meso
+Briser Katana                                      - tieuxung                        q.1     b.1     ch.1  rm.3            14999999 meso
+Briser Slayer                                      - zaccytan                        q.1     b.1     ch.1  rm.4              999999 meso
+Brown Aviator Shades                               - pbjban                          q.1     b.1     ch.1  rm.1          1999999999 meso
+Brown Skullcap                                     - StealthLure                     q.1     b.1     ch.1  rm.2          9999999999 meso
+Buddy Snow Globe Chair                             - siCky911                        q.1     b.1     ch.1  rm.1          2999999999 meso
+Buddy Snow Globe Chair                             - siCky911                        q.1     b.1     ch.1  rm.1          2999999999 meso
+Button-a-holic Toy Cap                             - RyanMeNotYou                    q.1     b.1     ch.1  rm.2          1999999999 meso
+Camellia Flower Geta                               - Kaxea                           q.1     b.1     ch.1  rm.4            39999999 meso
+Canopus Hat                                        - GuiseAmirite                    q.1     b.1     ch.1  rm.3            79999999 meso
+Casa Crow                                          - xElit3Magic                     q.1     b.1     ch.1  rm.3            10000000 meso
+Cat's Love Chair                                   - Alphide                         q.1     b.1     ch.1  rm.4           150000000 meso
+Celestial Cane                                     - zaccytan                        q.1     b.1     ch.1  rm.4             2999999 meso
+Chaos Pierre Hat                                   - lReBornXxMy                     q.1     b.1     ch.1  rm.3           129999999 meso
+Chaos Pink Bean Suit                               - IceChloe92                      q.1     b.1     ch.1  rm.2            14999999 meso
+Chaos Pink Bean Suit                               - showdota                        q.1     b.1     ch.1  rm.1            33333333 meso
+Chaos Scroll 60%                                   - yansangao                       q.100   b.1     ch.1  rm.2             8988888 meso
+Chaos Scroll 60%                                   - yansangao                       q.100   b.1     ch.1  rm.2             8988888 meso
+Chaos Scroll 60%                                   - yansangao                       q.44    b.1     ch.1  rm.2             8988888 meso
+Chaos Scroll 60%                                   - MonstarDual                     q.0     b.1     ch.1  rm.3             5000000 meso
+Chaos Scroll 60%                                   - BrownAvocado                    q.0     b.1     ch.1  rm.4             3999999 meso
+Chaos Scroll 60%                                   - Alphide                         q.1     b.1     ch.1  rm.4            10000000 meso
+Chaos Scroll of Goodness 30%                       - yansangao                       q.29    b.1     ch.1  rm.2           148885555 meso
+Chaos Scroll of Goodness 30%                       - caonidaye5                      q.70    b.1     ch.1  rm.3           130000000 meso
+Chaos Vellum's Helm                                - andyto02                        q.1     b.1     ch.1  rm.1            89999999 meso
+Chaos Vellum's Helm                                - KaiserKY                        q.1     b.1     ch.1  rm.1            99999999 meso
+Chaos Von Bon Helmet                               - andyto02                        q.1     b.1     ch.1  rm.1           133333333 meso
+Cherry Snow Cap                                    - lnuka                           q.1     b.1     ch.1  rm.1          3894500000 meso
+Chief Memory Guardian Familiar                     - Kuroneko135                     q.0     b.1     ch.1  rm.2             1000000 meso
+Clean Slate Scroll 10%                             - StarShineArc                    q.1     b.1     ch.1  rm.2            49999999 meso
+Clean Slate Scroll 10%                             - yansangao                       q.60    b.1     ch.1  rm.2            33888000 meso
+Clean Slate Scroll 10%                             - yansangao                       q.70    b.1     ch.1  rm.2            33888000 meso
+Clean Slate Scroll 10%                             - Holllup                         q.20    b.1     ch.1  rm.3            44999999 meso
+Clean Slate Scroll 10%                             - lReBornXxMy                     q.44    b.1     ch.1  rm.3            44444444 meso
+Clean Slate Scroll 10%                             - caonidaye5                      q.98    b.1     ch.1  rm.3            34999999 meso
+Clean Slate Scroll 10%                             - caonidaye5                      q.85    b.1     ch.1  rm.3            34999999 meso
+Clean Slate Scroll 5%                              - yansangao                       q.80    b.1     ch.1  rm.2            16888888 meso
+Clear Chair                                        - MeitouSandai                    q.1     b.1     ch.1  rm.1           555555555 meso
+Clear Chair                                        - Alphide                         q.1     b.1     ch.1  rm.4           500000000 meso
+Colorful Striped Beanie                            - lnuka                           q.1     b.1     ch.1  rm.1           245000000 meso
+Condensed Power Crystal                            - muskate12                       q.0     b.1     ch.1  rm.2             4999999 meso
+Condensed Power Crystal                            - StarShineArc                    q.1     b.1     ch.1  rm.2            99999999 meso
+Condensed Power Crystal                            - StarShineArc                    q.0     b.1     ch.1  rm.2             1999999 meso
+Condensed Power Crystal                            - LemiLime                        q.1     b.1     ch.1  rm.1           149999999 meso
+Condensed Power Crystal                            - Butterfly093                    q.1     b.1     ch.1  rm.3            29999999 meso
+Condensed Power Crystal                            - NinjaSnows                      q.1     b.1     ch.1  rm.3             5499999 meso
+Condensed Power Crystal                            - NinjaSnows                      q.1     b.1     ch.1  rm.3             5499999 meso
+Condensed Power Crystal                            - MeitouSandai                    q.1     b.1     ch.1  rm.1           444444444 meso
+Cracked Engraved Gollux Belt                       - IceChloe92                      q.1     b.1     ch.1  rm.2             2999999 meso
+Cracked Engraved Gollux Belt                       - IceChloe92                      q.1     b.1     ch.1  rm.1             2999999 meso
+Cracked Engraved Gollux Belt                       - BeTheOptima                     q.1     b.1     ch.1  rm.1             4999999 meso
+Cracked Engraved Gollux Belt                       - BeTheOptima                     q.0     b.1     ch.1  rm.1             4999999 meso
+Cracked Engraved Gollux Belt                       - ArcaneGust                      q.1     b.1     ch.1  rm.4             5999999 meso
+Cracked Engraved Gollux Pendant                    - LemiLime                        q.1     b.1     ch.1  rm.1            39999999 meso
+Cracked Engraved Gollux Pendant                    - LemiLime                        q.1     b.1     ch.1  rm.1            69999999 meso
+Cracked Engraved Gollux Pendant                    - YuMpI07                         q.1     b.1     ch.1  rm.3            25000000 meso
+Cracked Engraved Gollux Pendant                    - Desmondil                       q.1     b.1     ch.1  rm.2             1999999 meso
+Cracked Engraved Gollux Pendant                    - IceChloe92                      q.1     b.1     ch.1  rm.2             2999999 meso
+Cracked Engraved Gollux Pendant                    - IceChloe92                      q.1     b.1     ch.1  rm.1             2999999 meso
+Cracked Engraved Gollux Pendant                    - BeTheOptima                     q.1     b.1     ch.1  rm.1             1999999 meso
+Cracked Engraved Gollux Pendant                    - YuMpI07                         q.1     b.1     ch.1  rm.3             5000000 meso
+Cracked Engraved Gollux Pendant                    - Holllup                         q.1     b.1     ch.1  rm.3            19999999 meso
+Cracked Engraved Gollux Pendant                    - CastleBeast                     q.1     b.1     ch.1  rm.4             9999999 meso
+Cracked Engraved Gollux Pendant                    - CastleBeast                     q.1     b.1     ch.1  rm.4             9999999 meso
+Cracked Engraved Gollux Pendant                    - CastleBeast                     q.1     b.1     ch.1  rm.4             9999999 meso
+Cracked Gollux Earrings                            - RyanMeNotYou                    q.1     b.1     ch.1  rm.2           199999999 meso
+Cracked Gollux Earrings                            - amymikeMULE                     q.1     b.1     ch.1  rm.2           199999999 meso
+Cracked Gollux Earrings                            - IceChloe92                      q.1     b.1     ch.1  rm.1           149999999 meso
+Cracked Gollux Earrings                            - lReBornXxMy                     q.1     b.1     ch.1  rm.3           149999999 meso
+Cracked Gollux Ring                                - DesoIates                       q.1     b.1     ch.1  rm.5          9999999999 meso
+Critter Champs Chair                               - MeitouSandai                    q.1     b.1     ch.1  rm.1           555555555 meso
+Croking 90-Day Coupon                              - Alphide                         q.1     b.1     ch.1  rm.4           100000000 meso
+Crossed Fan                                        - xRevengerx94                    q.1     b.1     ch.1  rm.5               99999 meso
+Crystal Ventus Badge                               - amymikeMULE                     q.0     b.1     ch.1  rm.2            39999999 meso
+Crystal Ventus Badge                               - amymikeMULE                     q.0     b.1     ch.1  rm.2            39999999 meso
+Crystal Ventus Badge                               - showdota                        q.1     b.1     ch.1  rm.1            36666666 meso
+Crystal Ventus Badge                               - showdota                        q.0     b.1     ch.1  rm.1            36666666 meso
+Crystal Ventus Badge                               - showdota                        q.1     b.1     ch.1  rm.1            36666666 meso
+Crystal Ventus Badge                               - andyto02                        q.0     b.1     ch.1  rm.1            24444444 meso
+Cube Fragment                                      - muskate12                       q.2     b.1     ch.1  rm.2              249999 meso
+Cube Fragment                                      - StarShineArc                    q.98    b.1     ch.1  rm.2              999999 meso
+Cube Fragment                                      - ThisNameMine                    q.57    b.1     ch.1  rm.2               79999 meso
+Cube Fragment                                      - juuree                          q.455   b.1     ch.1  rm.3              249999 meso
+Cube Fragment                                      - NinjaSnows                      q.83    b.1     ch.1  rm.3               49999 meso
+Cubic Blade                                        - StarShineArc                    q.5     b.1     ch.1  rm.2            21999999 meso
+Cubic Blade                                        - yansangao                       q.46    b.1     ch.1  rm.2            14999999 meso
+Cubic Blade                                        - lReBornXxMy                     q.9     b.1     ch.1  rm.3            14999999 meso
+Cubic Blade                                        - caonidaye5                      q.200   b.1     ch.1  rm.3            14999999 meso
+Cubic Blade                                        - CastleBeast                     q.1     b.1     ch.1  rm.4            19999999 meso
+Cubic Chaos Blade                                  - ThisNameMine                    q.1     b.1     ch.1  rm.2            21999999 meso
+Cubic Chaos Blade                                  - yansangao                       q.19    b.1     ch.1  rm.2            22998888 meso
+Cubic Chaos Blade                                  - meltsmyloins                    q.1     b.1     ch.1  rm.3            21500000 meso
+Cubic Chaos Blade                                  - caonidaye5                      q.169   b.1     ch.1  rm.3            22888888 meso
+Customized Soul Enchanter                          - xCrimmyx                        q.4     b.1     ch.1  rm.4          1999999999 meso
+Cute Sailor Dress                                  - Prokyser                        q.1     b.1     ch.1  rm.1          1499999999 meso
+Cyclops Eye Lv. 3                                  - BelIandCute                     q.1     b.1     ch.1  rm.2          3333333333 meso
+Dark Eckhart                                       - HeroicShaun                     q.1     b.1     ch.1  rm.5           899999999 meso
+Dark Eckhart                                       - Haya4Kanna                      q.1     b.1     ch.1  rm.6           899999999 meso
+Dark Irena                                         - lnuka                           q.1     b.1     ch.1  rm.1            98000000 meso
+Dark Mihile                                        - Ahkuni                          q.1     b.1     ch.1  rm.1           889000000 meso
+Dark Onmyouji: Permanent Effect Coupon             - xCrimmyx                        q.1     b.1     ch.1  rm.4          1799999999 meso
+Dark scroll for Gloves for ATT 30%                 - tieuxung                        q.1     b.1     ch.1  rm.3              999999 meso
+Dawn Bear Comfy Boots                              - HeroicShaun                     q.1     b.1     ch.1  rm.5           349999999 meso
+Dawn Bear Hoodie                                   - Hunniies                        q.1     b.1     ch.1  rm.3           299999999 meso
+Dawn Bear Outfit                                   - HeroicShaun                     q.1     b.1     ch.1  rm.5           399999999 meso
+Dea Sidus Earring                                  - StarShineArc                    q.1     b.1     ch.1  rm.2            29999999 meso
+Dea Sidus Earring                                  - iDiscontent                     q.1     b.1     ch.1  rm.2            99999999 meso
+Dea Sidus Earring                                  - ThisNameMine                    q.1     b.1     ch.1  rm.2             9999999 meso
+Dea Sidus Earring                                  - ThisNameMine                    q.1     b.1     ch.1  rm.2             9999999 meso
+Dea Sidus Earring                                  - LemiLime                        q.1     b.1     ch.1  rm.1           149999999 meso
+Dea Sidus Earring                                  - Butterfly093                    q.1     b.1     ch.1  rm.3           199999999 meso
+Deluxe Android (F)                                 - Butterfly093                    q.0     b.1     ch.1  rm.3           199999999 meso
+Deluxe Android (F)                                 - Procloa                         q.1     b.1     ch.1  rm.3           199999999 meso
+Deluxe Android (M)                                 - Ahkuni                          q.1     b.1     ch.1  rm.1           390000000 meso
+Deluxe Android (M)                                 - Procloa                         q.1     b.1     ch.1  rm.3           199999999 meso
+Detective Glass                                    - Ahkuni                          q.1     b.1     ch.1  rm.1           225000000 meso
+Detective Glass                                    - Atalor                          q.1     b.1     ch.1  rm.4           500000000 meso
+Devil Black Dog Throne                             - Jerohab                         q.1     b.1     ch.1  rm.1            54999999 meso
+DEX Crystal                                        - Kuroneko135                     q.14    b.1     ch.1  rm.2               99999 meso
+Dexterity Potion VII Recipe                        - muskate12                       q.1     b.1     ch.1  rm.2                9999 meso
+Dimension Gloves                                   - StealthLure                     q.1     b.1     ch.1  rm.2             6666666 meso
+Dimension Gloves                                   - SoDesuKaXD                      q.0     b.1     ch.1  rm.2              999999 meso
+Dimension Gloves                                   - ThisNameMine                    q.1     b.1     ch.1  rm.2             1999999 meso
+Dimension Gloves                                   - ThisNameMine                    q.1     b.1     ch.1  rm.2             1999999 meso
+Dimension Gloves                                   - CastleBeast                     q.1     b.1     ch.1  rm.4             9999999 meso
+Dimension Gloves                                   - lnuka                           q.1     b.1     ch.1  rm.1           425000000 meso
+Double Power Suit Mount Permanent Coupon           - xElit3Magic                     q.1     b.1     ch.1  rm.3            80000000 meso
+Dragon Faltizan                                    - xRevengerx94                    q.1     b.1     ch.1  rm.5               99999 meso
+Dragon Green Sleeve                                - xRevengerx94                    q.1     b.1     ch.1  rm.5               99999 meso
+Dragon Kreda                                       - xRevengerx94                    q.1     b.1     ch.1  rm.5               99999 meso
+Dragon Permanche                                   - xRevengerx94                    q.1     b.1     ch.1  rm.5              199999 meso
+Dragon Permanche                                   - zaccytan                        q.1     b.1     ch.1  rm.4             3999999 meso
+Dragon Shiner Bow                                  - muskate12                       q.1     b.1     ch.1  rm.2               99999 meso
+Dragon Shiner Bow                                  - iDupStePz                       q.1     b.1     ch.1  rm.2             4999999 meso
+Dragon Shiner Cross                                - xRevengerx94                    q.0     b.1     ch.1  rm.5                1234 meso
+Dragon Skull Chair                                 - Jerohab                         q.1     b.1     ch.1  rm.1            49999999 meso
+Dragon Skull Chair                                 - Reiero                          q.1     b.1     ch.1  rm.3            49999999 meso
+Dragon Tail Fan                                    - pbjban                          q.1     b.1     ch.1  rm.1            39999999 meso
+Dragon Tail Fan                                    - andyto02                        q.1     b.1     ch.1  rm.1            33333333 meso
+Dragon Tail Fan                                    - Sobacknow                       q.0     b.1     ch.1  rm.4             4999999 meso
+Dragon Tail Fan                                    - AcceITurn                       q.1     b.1     ch.1  rm.4            24999999 meso
+Dragon Tail Fan                                    - WhiSoSer1us                     q.1     b.1     ch.1  rm.2           123456789 meso
+Dragon Tail Mage Sallet                            - IceChloe92                      q.1     b.1     ch.1  rm.1           124999999 meso
+Dragon Tail Thanatos                               - moraweifeng                     q.1     b.1     ch.1  rm.2            24999999 meso
+Dragon Tail Thanatos                               - andyto02                        q.1     b.1     ch.1  rm.1            33333333 meso
+Dragon Tail Thanatos                               - StMase                          q.1     b.1     ch.1  rm.4           555555555 meso
+Dream Fragment                                     - juuree                          q.1     b.1     ch.1  rm.2              777777 meso
+Dusk Essence                                       - StarShineArc                    q.2     b.1     ch.1  rm.2             4999999 meso
+Dusk Essence                                       - BelIandCute                     q.8     b.1     ch.1  rm.2             2100100 meso
+Dusk Essence                                       - Procloa                         q.9     b.1     ch.1  rm.3             2999999 meso
+Eagle Eye Assassin Shirt                           - iDupStePz                       q.1     b.1     ch.1  rm.2            44999999 meso
+Eagle Eye Assassin Shirt                           - amymikeMULE                     q.1     b.1     ch.1  rm.2            22222222 meso
+Eagle Eye Assassin Shirt                           - ThisNameMine                    q.0     b.1     ch.1  rm.2            14999999 meso
+Eagle Eye Assassin Shirt                           - SneakFreaky                     q.1     b.1     ch.1  rm.1            19999999 meso
+Eagle Eye Assassin Shirt                           - OHZimmy                         q.1     b.1     ch.1  rm.1            19999999 meso
+Eagle Eye Assassin Shirt                           - OHZimmy                         q.1     b.1     ch.1  rm.1            22222222 meso
+Eagle Eye Assassin Shirt                           - OHZimmy                         q.0     b.1     ch.1  rm.1            22222222 meso
+Eagle Eye Assassin Shirt                           - KaiserKY                        q.1     b.1     ch.1  rm.1            19999999 meso
+Eagle Eye Assassin Shirt                           - DreamZe                         q.1     b.1     ch.1  rm.3            29999999 meso
+Eagle Eye Assassin Shirt                           - AcceITurn                       q.1     b.1     ch.1  rm.4            14999999 meso
+Eagle Eye Assassin Shirt                           - Kuroneko135                     q.1     b.1     ch.1  rm.2            90000000 meso
+Eagle Eye Dunwitch Robe                            - SneakFreaky                     q.1     b.1     ch.1  rm.1             9999999 meso
+Eagle Eye Dunwitch Robe                            - pbjban                          q.0     b.1     ch.1  rm.1             9999999 meso
+Eagle Eye Dunwitch Robe                            - andyto02                        q.0     b.1     ch.1  rm.1             9888888 meso
+Eagle Eye Dunwitch Robe                            - KaiserKY                        q.0     b.1     ch.1  rm.1             9999999 meso
+Eagle Eye Dunwitch Robe                            - GuiseAmirite                    q.0     b.1     ch.1  rm.3            24999999 meso
+Eagle Eye Dunwitch Robe                            - Ahkuni                          q.1     b.1     ch.1  rm.1          5945000000 meso
+Eagle Eye Ranger Cowl                              - moraweifeng                     q.1     b.1     ch.1  rm.2             7777777 meso
+Eagle Eye Ranger Cowl                              - moraweifeng                     q.1     b.1     ch.1  rm.2             3333333 meso
+Eagle Eye Ranger Cowl                              - moraweifeng                     q.1     b.1     ch.1  rm.2             6666666 meso
+Eagle Eye Ranger Cowl                              - amymikeMULE                     q.1     b.1     ch.1  rm.2             9999999 meso
+Eagle Eye Ranger Cowl                              - amymikeMULE                     q.1     b.1     ch.1  rm.2             9999999 meso
+Eagle Eye Ranger Cowl                              - LemiLime                        q.1     b.1     ch.1  rm.1            14999999 meso
+Eagle Eye Ranger Cowl                              - andyto02                        q.1     b.1     ch.1  rm.1             9999999 meso
+Eagle Eye Ranger Cowl                              - GuiseAmirite                    q.1     b.1     ch.1  rm.3            14999999 meso
+Eagle Eye Ranger Cowl                              - ElwingXecty                     q.1     b.1     ch.1  rm.1          9999999999 meso
+Eagle Eye Wanderer Coat                            - LemiLime                        q.0     b.1     ch.1  rm.1            49999999 meso
+Eagle Eye Warrior Armor                            - amymikeMULE                     q.0     b.1     ch.1  rm.2            18999999 meso
+Eagle Eye Warrior Armor                            - amymikeMULE                     q.0     b.1     ch.1  rm.2            18999999 meso
+Eagle Eye Warrior Armor                            - OHZimmy                         q.0     b.1     ch.1  rm.1            22222222 meso
+Eagle Eye Warrior Armor                            - OHZimmy                         q.1     b.1     ch.1  rm.1            19999999 meso
+Eagle Eye Warrior Armor                            - OHZimmy                         q.1     b.1     ch.1  rm.1            19999999 meso
+Eagle Eye Warrior Armor                            - KaiserKY                        q.1     b.1     ch.1  rm.1            14999999 meso
+Eagle Eye Warrior Armor                            - GuiseAmirite                    q.1     b.1     ch.1  rm.3            44999999 meso
+Eagle Eye Warrior Armor                            - BrownAvocado                    q.1     b.1     ch.1  rm.4           699999999 meso
+Easel Chair                                        - BrownAvocado                    q.1     b.1     ch.1  rm.4           499999999 meso
+Eclectic Chive                                     - zaccytan                        q.1     b.1     ch.1  rm.4               99999 meso
+Eclectic Hermosa                                   - xRevengerx94                    q.1     b.1     ch.1  rm.5               99999 meso
+Eclectic Lubav                                     - zaccytan                        q.1     b.1     ch.1  rm.4               99999 meso
+Eclectic Lubav                                     - zaccytan                        q.1     b.1     ch.1  rm.4               99999 meso
+Eclectic Moonsteed                                 - zaccytan                        q.1     b.1     ch.1  rm.4               99999 meso
+Eclectic Prinsid                                   - zaccytan                        q.1     b.1     ch.1  rm.4               99999 meso
+Eclectic Prinsid                                   - zaccytan                        q.1     b.1     ch.1  rm.4               99999 meso
+Elixir                                             - WhiSoSer1us                     q.300   b.1     ch.1  rm.2                2222 meso
+Elixir                                             - WhiSoSer1us                     q.300   b.1     ch.1  rm.2                2222 meso
+Elixir                                             - WhiSoSer1us                     q.300   b.1     ch.1  rm.2                2222 meso
+Elixir                                             - WhiSoSer1us                     q.300   b.1     ch.1  rm.2                2222 meso
+Elixir                                             - WhiSoSer1us                     q.300   b.1     ch.1  rm.2                2222 meso
+Elixir                                             - Desmondil                       q.300   b.1     ch.1  rm.2                2000 meso
+Elixir                                             - juuree                          q.300   b.1     ch.1  rm.2                1700 meso
+Elixir                                             - juuree                          q.300   b.1     ch.1  rm.2                1700 meso
+Elixir                                             - juuree                          q.300   b.1     ch.1  rm.2                1800 meso
+Elixir                                             - juuree                          q.300   b.1     ch.1  rm.2                1800 meso
+Elixir                                             - xRevengerx94                    q.300   b.1     ch.1  rm.5                1898 meso
+Elixir                                             - xRevengerx94                    q.300   b.1     ch.1  rm.5                1898 meso
+Elixir                                             - xRevengerx94                    q.300   b.1     ch.1  rm.5                1898 meso
+Elixir                                             - xRevengerx94                    q.124   b.1     ch.1  rm.5                1898 meso
+Elixir                                             - juuree                          q.300   b.1     ch.1  rm.3                1700 meso
+Elixir                                             - juuree                          q.300   b.1     ch.1  rm.3                1700 meso
+Elixir                                             - juuree                          q.300   b.1     ch.1  rm.3                1700 meso
+Elixir                                             - juuree                          q.300   b.1     ch.1  rm.3                1700 meso
+Elixir                                             - juuree                          q.300   b.1     ch.1  rm.3                1700 meso
+Elixir                                             - juuree                          q.170   b.1     ch.1  rm.3                1800 meso
+Elixir                                             - ArcaneGust                      q.300   b.1     ch.1  rm.4                1400 meso
+Elixir                                             - ArcaneGust                      q.300   b.1     ch.1  rm.4                1400 meso
+Elixir                                             - StMase                          q.300   b.1     ch.1  rm.4               99999 meso
+Enjoyable Winter                                   - ThisNameMine                    q.1     b.1     ch.1  rm.2            24999999 meso
+Enjoyable Winter                                   - yansangao                       q.100   b.1     ch.1  rm.2            33333222 meso
+Enjoyable Winter                                   - caonidaye5                      q.35    b.1     ch.1  rm.3            29999999 meso
+Epic Potential Scroll 50%                          - StarShineArc                    q.0     b.1     ch.1  rm.2           199999999 meso
+Epic Potential Scroll 50%                          - yansangao                       q.27    b.1     ch.1  rm.2           158885555 meso
+Epic Potential Scroll 50%                          - MonstarDual                     q.1     b.1     ch.1  rm.3           155000000 meso
+Epic Potential Scroll 50%                          - caonidaye5                      q.50    b.1     ch.1  rm.3           158885555 meso
+Equip Enhancement Scroll                           - juuree                          q.9     b.1     ch.1  rm.2              350000 meso
+Equip Enhancement Scroll                           - xRevengerx94                    q.1     b.1     ch.1  rm.5              149999 meso
+Equip Enhancement Scroll                           - YuMpI07                         q.23    b.1     ch.1  rm.3              500000 meso
+Equip Enhancement Scroll                           - tieuxung                        q.5     b.1     ch.1  rm.3              299999 meso
+Exceptional Luck Boost Potion                      - IceChloe92                      q.10    b.1     ch.1  rm.2             4499999 meso
+EXP Accumulation Potion                            - RyanMeNotYou                    q.10    b.1     ch.1  rm.2            19999999 meso
+EXP Accumulation Potion                            - RyanMeNotYou                    q.10    b.1     ch.1  rm.2            19999999 meso
+EXP Accumulation Potion                            - RyanMeNotYou                    q.10    b.1     ch.1  rm.2            19999999 meso
+EXP Accumulation Potion                            - RyanMeNotYou                    q.10    b.1     ch.1  rm.2            19999999 meso
+Fafnir Angelic Shooter                             - andyto02                        q.1     b.1     ch.1  rm.1            33333333 meso
+Fafnir Angelic Shooter                             - xCrimmyx                        q.1     b.1     ch.1  rm.4            12999999 meso
+Fafnir Angelic Shooter                             - AcceITurn                       q.1     b.1     ch.1  rm.4             9999999 meso
+Fafnir Battle Cleaver                              - juuree                          q.1     b.1     ch.1  rm.2             8888888 meso
+Fafnir Battle Cleaver                              - Sooklemule                      q.1     b.1     ch.1  rm.1          2444444444 meso
+Fafnir Brionak                                     - yoZimmy                         q.1     b.1     ch.1  rm.1            12222222 meso
+Fafnir Brionak                                     - yoZimmy                         q.1     b.1     ch.1  rm.1            12222222 meso
+Fafnir Brionak                                     - yoZimmy                         q.1     b.1     ch.1  rm.1             9999999 meso
+Fafnir Brionak                                     - Sooklemule                      q.1     b.1     ch.1  rm.1             8888888 meso
+Fafnir Claire Ciel                                 - Sooklemule                      q.1     b.1     ch.1  rm.1           133333333 meso
+Fafnir Claire Ciel                                 - Sooklemule                      q.1     b.1     ch.1  rm.1           166666666 meso
+Fafnir Claire Ciel                                 - xCrimmyx                        q.1     b.1     ch.1  rm.4            73999999 meso
+Fafnir Claire Ciel                                 - MeitouSandai                    q.1     b.1     ch.1  rm.1           444444444 meso
+Fafnir Claire Ciel                                 - NobleKuraudo                    q.1     b.1     ch.1  rm.1           399999999 meso
+Fafnir Claire Ciel                                 - DreamZe                         q.1     b.1     ch.1  rm.3           999999999 meso
+Fafnir Claire Ciel                                 - NobleKuraudo                    q.1     b.1     ch.1  rm.1           599999999 meso
+Fafnir Death Bringer                               - yoZimmy                         q.0     b.1     ch.1  rm.1           399999999 meso
+Fafnir Dual Windwing                               - yoZimmy                         q.0     b.1     ch.1  rm.1            12222222 meso
+Fafnir Dual Windwing                               - Sooklemule                      q.0     b.1     ch.1  rm.1            11111111 meso
+Fafnir Dual Windwing                               - ElwingXecty                     q.1     b.1     ch.1  rm.1          9999999999 meso
+Fafnir Guardian Hammer                             - Sooklemule                      q.1     b.1     ch.1  rm.1            33333333 meso
+Fafnir Guardian Hammer                             - Sooklemule                      q.1     b.1     ch.1  rm.1            14444444 meso
+Fafnir Guardian Hammer                             - xCrimmyx                        q.1     b.1     ch.1  rm.4            12999999 meso
+Fafnir Guardian Hammer                             - AcceITurn                       q.1     b.1     ch.1  rm.4             9999999 meso
+Fafnir Indigo Flash                                - Sooklemule                      q.1     b.1     ch.1  rm.1           149999999 meso
+Fafnir Indigo Flash                                - AcceITurn                       q.1     b.1     ch.1  rm.4            99999999 meso
+Fafnir Indigo Flash                                - NobleKuraudo                    q.1     b.1     ch.1  rm.1            99999999 meso
+Fafnir Indigo Flash                                - NobleKuraudo                    q.1     b.1     ch.1  rm.1            99999999 meso
+Fafnir Indigo Flash                                - NobleKuraudo                    q.1     b.1     ch.1  rm.1           199999999 meso
+Fafnir Indigo Flash                                - NobleKuraudo                    q.1     b.1     ch.1  rm.1           199999999 meso
+Fafnir Lightning Striker                           - xCrimmyx                        q.1     b.1     ch.1  rm.4            19999999 meso
+Fafnir Mana Cradle                                 - Sooklemule                      q.0     b.1     ch.1  rm.1           388888888 meso
+Fafnir Mana Cradle                                 - siCky911                        q.1     b.1     ch.1  rm.1          9999999999 meso
+Fafnir Mana Crown                                  - Sooklemule                      q.1     b.1     ch.1  rm.1            54444444 meso
+Fafnir Mana Crown                                  - Prokyser                        q.1     b.1     ch.1  rm.1            59999999 meso
+Fafnir Mana Taker                                  - Sooklemule                      q.1     b.1     ch.1  rm.1           144444444 meso
+Fafnir Mistilteinn                                 - yoZimmy                         q.1     b.1     ch.1  rm.1             9999999 meso
+Fafnir Mistilteinn                                 - yoZimmy                         q.1     b.1     ch.1  rm.1             9999999 meso
+Fafnir Mistilteinn                                 - yoZimmy                         q.1     b.1     ch.1  rm.1             9999999 meso
+Fafnir Mistilteinn                                 - yoZimmy                         q.1     b.1     ch.1  rm.1            12222222 meso
+Fafnir Mistilteinn                                 - Sooklemule                      q.1     b.1     ch.1  rm.1           144444444 meso
+Fafnir Mistilteinn                                 - KaiserKY                        q.1     b.1     ch.1  rm.1             9999999 meso
+Fafnir Mistilteinn                                 - xCrimmyx                        q.1     b.1     ch.1  rm.4            12999999 meso
+Fafnir Moon Glaive                                 - yoZimmy                         q.1     b.1     ch.1  rm.1             9999999 meso
+Fafnir Moon Glaive                                 - KaiserKY                        q.1     b.1     ch.1  rm.1             9999999 meso
+Fafnir Penitent Tears                              - OHZimmy                         q.0     b.1     ch.1  rm.1           199999999 meso
+Fafnir Penitent Tears                              - Sooklemule                      q.0     b.1     ch.1  rm.1           189999999 meso
+Fafnir Penitent Tears                              - Sooklemule                      q.1     b.1     ch.1  rm.1           288888888 meso
+Fafnir Penitent Tears                              - iDiscontent                     q.1     b.1     ch.1  rm.2          2999999999 meso
+Fafnir Penitent Tears                              - iDiscontent                     q.1     b.1     ch.1  rm.4          2999999999 meso
+Fafnir Perry Talon                                 - yoZimmy                         q.1     b.1     ch.1  rm.1           299999999 meso
+Fafnir Perry Talon                                 - yoZimmy                         q.1     b.1     ch.1  rm.1           284999999 meso
+Fafnir Perry Talon                                 - yoZimmy                         q.1     b.1     ch.1  rm.1           284999999 meso
+Fafnir Perry Talon                                 - Sooklemule                      q.1     b.1     ch.1  rm.1           284444444 meso
+Fafnir Rapid Edge                                  - andyto02                        q.1     b.1     ch.1  rm.1            99999999 meso
+Fafnir Raven Ring                                  - yoZimmy                         q.1     b.1     ch.1  rm.1             9999999 meso
+Fafnir Raven Ring                                  - Sooklemule                      q.1     b.1     ch.1  rm.1          2333333333 meso
+Fafnir Raven Ring                                  - xCrimmyx                        q.0     b.1     ch.1  rm.4            12999999 meso
+Fafnir Risk Holder                                 - yoZimmy                         q.1     b.1     ch.1  rm.1          1299999999 meso
+Fafnir Risk Holder                                 - yoZimmy                         q.1     b.1     ch.1  rm.1          1199999999 meso
+Fafnir Risk Holder                                 - KaiserKY                        q.1     b.1     ch.1  rm.1          1299999999 meso
+Fafnir Risk Holder                                 - KaiserKY                        q.1     b.1     ch.1  rm.1          1199999999 meso
+Fafnir Risk Holder                                 - Prokyser                        q.1     b.1     ch.1  rm.1          1299999999 meso
+Fafnir Risk Holder                                 - Prokyser                        q.1     b.1     ch.1  rm.1          1199999999 meso
+Fafnir Scepter                                     - andyto02                        q.1     b.1     ch.1  rm.1            33333333 meso
+Fafnir Scepter                                     - Prokyser                        q.1     b.1     ch.1  rm.1             9999999 meso
+Fafnir Scepter                                     - AcceITurn                       q.1     b.1     ch.1  rm.4             9999999 meso
+Fafnir Split Edge                                  - NobleKuraudo                    q.1     b.1     ch.1  rm.1           399999999 meso
+Fafnir Split Edge                                  - MeitouSandai                    q.1     b.1     ch.1  rm.1           666666666 meso
+Fafnir Split Edge                                  - Sooklemule                      q.1     b.1     ch.1  rm.1            24444444 meso
+Fafnir Split Edge                                  - KaiserKY                        q.1     b.1     ch.1  rm.1            19999999 meso
+Fafnir Split Edge                                  - Sooklemule                      q.1     b.1     ch.1  rm.1            24444444 meso
+Fafnir Split Edge                                  - KaiserKY                        q.1     b.1     ch.1  rm.1            19999999 meso
+Fafnir Twin Clever                                 - Sooklemule                      q.1     b.1     ch.1  rm.1            33333333 meso
+Fafnir Twin Clever                                 - NobleKuraudo                    q.0     b.1     ch.1  rm.1              999999 meso
+Fafnir Twin Clever                                 - NobleKuraudo                    q.0     b.1     ch.1  rm.1              999999 meso
+Fafnir Twin Clever                                 - NobleKuraudo                    q.0     b.1     ch.1  rm.1              999999 meso
+Fafnir Twin Clever                                 - KaiserKY                        q.1     b.1     ch.1  rm.1             4999999 meso
+Fafnir Twin Clever                                 - xCrimmyx                        q.1     b.1     ch.1  rm.4            12999999 meso
+Fafnir Twin Clever                                 - xCrimmyx                        q.1     b.1     ch.1  rm.4            12999999 meso
+Fafnir Twin Clever                                 - AcceITurn                       q.1     b.1     ch.1  rm.4             9999999 meso
+Fafnir Wind Chaser                                 - yoZimmy                         q.0     b.1     ch.1  rm.1           199999999 meso
+Fafnir Wind Chaser                                 - Sooklemule                      q.0     b.1     ch.1  rm.1           174444444 meso
+Fafnir Wind Chaser                                 - MeitouSandai                    q.1     b.1     ch.1  rm.1           699999999 meso
+Fafnir Wind Chaser                                 - BrownAvocado                    q.1     b.1     ch.1  rm.4           699999999 meso
+Fafnir Windwing Shooter                            - yoZimmy                         q.1     b.1     ch.1  rm.1             9999999 meso
+Fafnir Windwing Shooter                            - yoZimmy                         q.1     b.1     ch.1  rm.1             9999999 meso
+Fafnir Windwing Shooter                            - yoZimmy                         q.1     b.1     ch.1  rm.1             9999999 meso
+Fafnir Windwing Shooter                            - yoZimmy                         q.1     b.1     ch.1  rm.1            12222222 meso
+Fafnir Zeliska                                     - SneakFreaky                     q.1     b.1     ch.1  rm.1            14999999 meso
+Fafnir Zeliska                                     - Sooklemule                      q.1     b.1     ch.1  rm.1          2999999999 meso
+Fafnir Zeliska                                     - AcceITurn                       q.1     b.1     ch.1  rm.4            14999999 meso
+Fairy Lamp                                         - amymikeMULE                     q.1     b.1     ch.1  rm.2           399999999 meso
+Fairytale Mantle                                   - Sepxy                           q.1     b.1     ch.1  rm.4           274999999 meso
+Falcon Wing Composite Bow                          - WhiSoSer1us                     q.1     b.1     ch.1  rm.2           155555555 meso
+Falcon Wing Dual Bowguns                           - BeTheOptima                     q.1     b.1     ch.1  rm.1             3333333 meso
+Falcon Wing Sentinel Boots                         - IceChloe92                      q.1     b.1     ch.1  rm.1            12999999 meso
+Falcon Wing Sentinel Cap                           - IceChloe92                      q.1     b.1     ch.1  rm.1            11999999 meso
+Falcon Wing Sentinel Cap                           - Prokyser                        q.1     b.1     ch.1  rm.1             3999999 meso
+Falcon Wing Sentinel Cape                          - IceChloe92                      q.1     b.1     ch.1  rm.1            14999999 meso
+Falcon Wing Sentinel Cape                          - andyto02                        q.1     b.1     ch.1  rm.1             9888888 meso
+Falcon Wing Sentinel Cape                          - Prokyser                        q.1     b.1     ch.1  rm.1            19999999 meso
+Falcon Wing Sentinel Cape                          - AcceITurn                       q.1     b.1     ch.1  rm.4             9999999 meso
+Falcon Wing Sentinel Cape                          - AcceITurn                       q.1     b.1     ch.1  rm.4             9999999 meso
+Falcon Wing Sentinel Shoulder                      - NobleKuraudo                    q.1     b.1     ch.1  rm.1           799999999 meso
+Falcon Wing Sentinel Suit                          - Prokyser                        q.1     b.1     ch.1  rm.1             4999999 meso
+Fantasy Butterfly Flower                           - lnuka                           q.1     b.1     ch.1  rm.1           245000000 meso
+Fantasy Butterfly Flower                           - Hunniies                        q.1     b.1     ch.1  rm.3           199999999 meso
+Fearless Alchupiz                                  - Kuroneko135                     q.1     b.1     ch.1  rm.2            25000000 meso
+Fearless Fan of Altruism                           - SoDesuKaXD                      q.0     b.1     ch.1  rm.2              999999 meso
+Featherly Angel Gloves                             - Atalor                          q.1     b.1     ch.1  rm.4           300000000 meso
+Featherly Angel Gloves                             - Sepxy                           q.1     b.1     ch.1  rm.4           349999999 meso
+Featherly Angel Shoes                              - BelIandCute                     q.1     b.1     ch.1  rm.2           555555555 meso
+Featherly Angel Shoes                              - SavageEbola                     q.1     b.1     ch.1  rm.4           399999999 meso
+Fine Spell Essence                                 - muskate12                       q.58    b.1     ch.1  rm.2                9999 meso
+Fine Spell Essence                                 - Reiero                          q.756   b.1     ch.1  rm.3                 666 meso
+Flame Throwing Stars                               - StealthLure                     q.1     b.1     ch.1  rm.2           299999999 meso
+Flamekeeper Cordon                                 - BelIandCute                     q.1     b.1     ch.1  rm.2            75000000 meso
+Fluttering Camellia Flower                         - Atalor                          q.1     b.1     ch.1  rm.4           500000000 meso
+Fluttering Camellia Flower                         - Atalor                          q.1     b.1     ch.1  rm.4           500000000 meso
+Fresh Ice                                          - yurkuul                         q.1     b.1     ch.1  rm.4          1399999999 meso
+Funky Xylophone Leggings                           - Prokyser                        q.1     b.1     ch.1  rm.1           999999999 meso
+Garnet                                             - SavageEbola                     q.1     b.1     ch.1  rm.4          9999999999 meso
+Giant HP Bottle                                    - Jerohab                         q.1     b.1     ch.1  rm.1            69999999 meso
+Giant HP Bottle                                    - xElit3Magic                     q.1     b.1     ch.1  rm.3           150000000 meso
+Giant MP Bottle                                    - Jerohab                         q.1     b.1     ch.1  rm.1            69999999 meso
+Giant Potion                                       - Reiero                          q.7     b.1     ch.1  rm.3             4999999 meso
+Giant Potion                                       - Reiero                          q.0     b.1     ch.1  rm.3             4999999 meso
+Gingerbuff                                         - StarShineArc                    q.100   b.1     ch.1  rm.2              999999 meso
+Gold Bonus Potential Stamp                         - GuiseAmirite                    q.0     b.1     ch.1  rm.3            89999999 meso
+Golden Clover Belt                                 - IceChloe92                      q.1     b.1     ch.1  rm.1            20999999 meso
+Golden Hammer 50%                                  - yansangao                       q.19    b.1     ch.1  rm.2            44999999 meso
+Golden Neschere                                    - muskate12                       q.0     b.1     ch.1  rm.2               99999 meso
+Grand Spell Essence                                - muskate12                       q.0     b.1     ch.1  rm.2              999999 meso
+Gratias Aura                                       - HeroicShaun                     q.1     b.1     ch.1  rm.5           399999999 meso
+Green Arcina                                       - iArrowz01                       q.1     b.1     ch.1  rm.4          1500000000 meso
+Green Arnah Shoes                                  - lReBornXxMy                     q.1     b.1     ch.1  rm.3           499999999 meso
+Green Fairy                                        - Reiero                          q.1     b.1     ch.1  rm.3               99999 meso
+Green Giles Cape                                   - StMase                          q.1     b.1     ch.1  rm.4             1555555 meso
+Green Hoflon                                       - xRevengerx94                    q.1     b.1     ch.1  rm.5               99999 meso
+Green Katina Boots                                 - GuiseAmirite                    q.1     b.1     ch.1  rm.3            79999999 meso
+Green Sage                                         - xElit3Magic                     q.1     b.1     ch.1  rm.3            10000000 meso
+Half Earrings                                      - iDupStePz                       q.1     b.1     ch.1  rm.2            24999999 meso
+Half Earrings                                      - DreamZe                         q.1     b.1     ch.1  rm.3           899999999 meso
+Half Earrings                                      - Asian5Ever                      q.1     b.1     ch.1  rm.2           649999999 meso
+Half-Heart Chocolate Cake Chair                    - yurkuul                         q.1     b.1     ch.1  rm.4           950000000 meso
+Halflinger Expedition Badge                        - itztururu                       q.1     b.1     ch.1  rm.4            69999999 meso
+Halflinger Expedition Badge                        - itztururu                       q.1     b.1     ch.1  rm.4            49999999 meso
+Halflinger Expedition Badge                        - itztururu                       q.1     b.1     ch.1  rm.4            55000000 meso
+Halflinger Expedition Badge                        - itztururu                       q.1     b.1     ch.1  rm.4            99999999 meso
+Halflinger Expedition Badge                        - itztururu                       q.1     b.1     ch.1  rm.4            24999999 meso
+Hawaiian Flower                                    - Reiero                          q.1     b.1     ch.1  rm.3           999999999 meso
+Head Cooler                                        - Kuroneko135                     q.1     b.1     ch.1  rm.2           100000000 meso
+Health Potion (2500)                               - juuree                          q.400   b.1     ch.1  rm.3                 500 meso
+Health Potion (3000)                               - juuree                          q.0     b.1     ch.1  rm.2                 900 meso
+Heart Pudding Slippers                             - lnuka                           q.1     b.1     ch.1  rm.1           164500000 meso
+Heart Pudding Slippers                             - Sepxy                           q.1     b.1     ch.1  rm.4           174999999 meso
+Helmsman Gorilla                                   - juuree                          q.4     b.1     ch.1  rm.3             1999999 meso
+High Quality Dimension Gloves                      - Procloa                         q.1     b.1     ch.1  rm.3            99999999 meso
+High Quality Dimension Gloves                      - NobleKuraudo                    q.1     b.1     ch.1  rm.1           299999999 meso
+High Quality Dimension Gloves                      - NobleKuraudo                    q.1     b.1     ch.1  rm.1           299999999 meso
+High Quality Dimension Gloves                      - MeitouSandai                    q.1     b.1     ch.1  rm.1           299999999 meso
+High Quality Dimension Gloves                      - NobleKuraudo                    q.1     b.1     ch.1  rm.1           799999999 meso
+High Quality Dimension Gloves                      - NobleKuraudo                    q.1     b.1     ch.1  rm.1           399999999 meso
+High Quality Dimension Gloves                      - NobleKuraudo                    q.1     b.1     ch.1  rm.1           399999999 meso
+Horntail Chair                                     - Jerohab                         q.1     b.1     ch.1  rm.1            79999999 meso
+Husky Hat                                          - Ahkuni                          q.1     b.1     ch.1  rm.1          1345000000 meso
+Hwabi Throwing-Stars                               - tieuxung                        q.1     b.1     ch.1  rm.3             4999999 meso
+Hwabi Throwing-Stars                               - meltsmyloins                    q.0     b.1     ch.1  rm.3             5000000 meso
+Hwabi Throwing-Stars                               - meltsmyloins                    q.0     b.1     ch.1  rm.3             5000000 meso
+Ice Fishing                                        - MeitouSandai                    q.1     b.1     ch.1  rm.1           555555555 meso
+Icy Sweet Penguin                                  - lnuka                           q.1     b.1     ch.1  rm.1           945000000 meso
+Icy Sweet Penguin                                  - HeroicShaun                     q.1     b.1     ch.1  rm.5           749999999 meso
+Icy Sweet Penguin                                  - Haya4Kanna                      q.1     b.1     ch.1  rm.6           999999999 meso
+Icy Sweet Penguin                                  - Haya4Kanna                      q.1     b.1     ch.1  rm.6           999999999 meso
+Ifia's Necklace                                    - SoDesuKaXD                      q.0     b.1     ch.1  rm.2               99999 meso
+Infinite Magic Arrows                              - ElwingXecty                     q.1     b.1     ch.1  rm.1          9999999999 meso
+Innocence Scroll 50%                               - yansangao                       q.24    b.1     ch.1  rm.2           138855555 meso
+Innocence Scroll 50%                               - caonidaye5                      q.48    b.1     ch.1  rm.3           138855555 meso
+Innocence Scroll 50%                               - AcceITurn                       q.1     b.1     ch.1  rm.4           119999999 meso
+Jack o' Lantern Damage Skin                        - StealthLure                     q.1     b.1     ch.1  rm.2          1299999999 meso
+Jaihin Cane                                        - xRevengerx94                    q.1     b.1     ch.1  rm.5              299999 meso
+Jaihin Staff                                       - Desmondil                       q.1     b.1     ch.1  rm.2              499999 meso
+Jumpy Blue                                         - Sepxy                           q.1     b.1     ch.1  rm.4           499999999 meso
+Kage                                               - xRevengerx94                    q.1     b.1     ch.1  rm.5               99999 meso
+Kaiserion                                          - Procloa                         q.1     b.1     ch.1  rm.3              499999 meso
+Karma Orb                                          - StMase                          q.1     b.1     ch.1  rm.4             9999999 meso
+Karma Orb                                          - StMase                          q.1     b.1     ch.1  rm.4            39999999 meso
+Karma Orb                                          - StMase                          q.1     b.1     ch.1  rm.4           399999999 meso
+Kitten Tail Scepter                                - BeTheOptima                     q.0     b.1     ch.1  rm.1             1111111 meso
+Kitten Tail Scepter                                - Prokyser                        q.1     b.1     ch.1  rm.1             4999999 meso
+Kumbi Throwing-Stars                               - SoDesuKaXD                      q.0     b.1     ch.1  rm.2               99999 meso
+Last Unwelcome Guest Spear                         - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Legendary Armor Shard (Uesugi Clan)                - juuree                          q.0     b.1     ch.1  rm.3              250000 meso
+Legendary Weapon Shard (Uesugi Clan)               - juuree                          q.0     b.1     ch.1  rm.3              250000 meso
+Lemon Shooting Star Ring                           - xCrimmyx                        q.1     b.1     ch.1  rm.4          4999999999 meso
+Leomite                                            - xRevengerx94                    q.1     b.1     ch.1  rm.5              499999 meso
+Level Jump D Ring                                  - amymikeMULE                     q.1     b.1     ch.1  rm.2           122222222 meso
+Lidium Heart (Permanent)                           - Sobacknow                       q.1     b.1     ch.1  rm.4          2749999999 meso
+Lightning Soul                                     - Atalor                          q.1     b.1     ch.1  rm.4           700000000 meso
+Lionheart Battle Axe                               - IceChloe92                      q.1     b.1     ch.1  rm.1             9999999 meso
+Lionheart Battle Boots                             - Sooklemule                      q.1     b.1     ch.1  rm.1            18555555 meso
+Lionheart Battle Boots                             - IceChloe92                      q.1     b.1     ch.1  rm.2            59999999 meso
+Lionheart Battle Bracers                           - amymikeMULE                     q.1     b.1     ch.1  rm.2            15555555 meso
+Lionheart Battle Mail                              - IceChloe92                      q.1     b.1     ch.1  rm.2            14999999 meso
+Lionheart Battle Mail                              - Prokyser                        q.0     b.1     ch.1  rm.1             8999999 meso
+Lionheart Battle Scimitar                          - MeitouSandai                    q.1     b.1     ch.1  rm.1           188888888 meso
+Lionheart Blast Maul                               - IceChloe92                      q.1     b.1     ch.1  rm.1             9999999 meso
+Lionheart Lucky Item Scroll                        - andyto02                        q.2     b.1     ch.1  rm.1            24444444 meso
+Lionheart Red King                                 - WhiSoSer1us                     q.1     b.1     ch.1  rm.2             9999999 meso
+Lionheart Red King                                 - BeTheOptima                     q.0     b.1     ch.1  rm.1              999999 meso
+Lionheart Red King                                 - IceChloe92                      q.1     b.1     ch.1  rm.2            44444444 meso
+Lord Pirate Chair                                  - Jerohab                         q.1     b.1     ch.1  rm.1            29999999 meso
+Love Knuckler                                      - lnuka                           q.1     b.1     ch.1  rm.1           545000000 meso
+Luck Boost Potion Recipe                           - muskate12                       q.1     b.1     ch.1  rm.2                9999 meso
+Luck Potion IX Recipe                              - muskate12                       q.1     b.1     ch.1  rm.2                9999 meso
+Luck Ring VI                                       - IceChloe92                      q.1     b.1     ch.1  rm.1             6999999 meso
+Lucky Tree Branch Nose                             - Jerohab                         q.1     b.1     ch.1  rm.1           799999999 meso
+Lucky Winter                                       - yansangao                       q.98    b.1     ch.1  rm.2             8988888 meso
+Lucky Winter                                       - yansangao                       q.100   b.1     ch.1  rm.2             8988888 meso
+Lucky Winter                                       - yansangao                       q.100   b.1     ch.1  rm.2             8988888 meso
+Lucky Winter                                       - Holllup                         q.38    b.1     ch.1  rm.3            13999999 meso
+Lucky Winter                                       - caonidaye5                      q.98    b.1     ch.1  rm.3             8999999 meso
+Macaroon Hairpin                                   - juuree                          q.1     b.1     ch.1  rm.3           599999999 meso
+Magic Heart Stick                                  - xCrimmyx                        q.1     b.1     ch.1  rm.4           599999999 meso
+Magic Powder (Purple)                              - juuree                          q.0     b.1     ch.1  rm.3              299999 meso
+Magic Powder (Purple)                              - MoyashiRaku                     q.8     b.1     ch.1  rm.3              999999 meso
+Magic Star Suit                                    - Atalor                          q.1     b.1     ch.1  rm.4           500000000 meso
+Magic Star Suit                                    - Atalor                          q.1     b.1     ch.1  rm.4           500000000 meso
+Magma Wings                                        - iDiscontent                     q.0     b.1     ch.1  rm.2           749999999 meso
+Magma Wings                                        - OHZimmy                         q.1     b.1     ch.1  rm.1           999999999 meso
+Magma Wings                                        - StMase                          q.1     b.1     ch.1  rm.4          1111111111 meso
+Magnificent Zakum Soul                             - siCky911                        q.1     b.1     ch.1  rm.1          1999999999 meso
+Majesty Cane                                       - zaccytan                        q.1     b.1     ch.1  rm.4             1999999 meso
+Mana Crystal                                       - muskate12                       q.0     b.1     ch.1  rm.2                9999 meso
+Mana Crystal                                       - Reiero                          q.313   b.1     ch.1  rm.3                4999 meso
+Mana Potion (2500)                                 - juuree                          q.0     b.1     ch.1  rm.2                 500 meso
+Marry me                                           - yurkuul                         q.1     b.1     ch.1  rm.4           850000000 meso
+Max Critical Ring                                  - pbjban                          q.1     b.1     ch.1  rm.1          2999999999 meso
+Meister Ring                                       - siCky911                        q.1     b.1     ch.1  rm.1          6999999999 meso
+Meister Ring                                       - siCky911                        q.1     b.1     ch.1  rm.1          9999999999 meso
+Meister Ring                                       - ElwingXecty                     q.1     b.1     ch.1  rm.1          9999999999 meso
+Memorial Angel                                     - Ahkuni                          q.1     b.1     ch.1  rm.4           888888888 meso
+Metus                                              - CastleBeast                     q.1     b.1     ch.1  rm.4              199999 meso
+Mint Mochi Ice                                     - Kaxea                           q.1     b.1     ch.1  rm.4           249999999 meso
+Mint Mochi Ice                                     - Atalor                          q.1     b.1     ch.1  rm.4           300000000 meso
+Mint Mochi Ice                                     - Sepxy                           q.1     b.1     ch.1  rm.4           249999999 meso
+Mint Snow Outfit                                   - OHZimmy                         q.1     b.1     ch.1  rm.1           499999999 meso
+Mint Snow Outfit                                   - HeroicShaun                     q.1     b.1     ch.1  rm.5           499999999 meso
+Moon and Star Cushion                              - xElit3Magic                     q.1     b.1     ch.1  rm.3           600000000 meso
+Moon Chair                                         - Jerohab                         q.1     b.1     ch.1  rm.1            59999999 meso
+Moon Rock                                          - StMase                          q.1     b.1     ch.1  rm.4             1999999 meso
+Moonlight Floral Hairpin                           - Ahkuni                          q.1     b.1     ch.1  rm.1           190000000 meso
+Moonlight Floral Hairpin                           - lnuka                           q.1     b.1     ch.1  rm.1           194500000 meso
+Moonlight Floral Hat                               - Kaxea                           q.1     b.1     ch.1  rm.4            39999999 meso
+Moonlight Marble Shoes                             - Haya4Kanna                      q.1     b.1     ch.1  rm.6            99999999 meso
+Mother Nature Whisper                              - siCky911                        q.1     b.1     ch.1  rm.1          8999999999 meso
+Muspell Magician Gloves                            - Kuroneko135                     q.1     b.1     ch.1  rm.2             2000000 meso
+Muspell Magician Shoes                             - Kuroneko135                     q.1     b.1     ch.1  rm.2             2000000 meso
+Muspell Magician Suit                              - Kuroneko135                     q.1     b.1     ch.1  rm.2             2000000 meso
+Muspell Pirate Hat                                 - Reiero                          q.0     b.1     ch.1  rm.3               99999 meso
+Mutant Mushroom Cap                                - DreamZe                         q.1     b.1     ch.1  rm.3                   3 meso
+Mutant Mushroom Cap                                - DreamZe                         q.2     b.2     ch.1  rm.3                   1 meso
+Mutant Ribbon Pig Familiar                         - ThisNameMine                    q.1     b.1     ch.1  rm.2            79999999 meso
+Mutant Snail Familiar                              - Kuroneko135                     q.1     b.1     ch.1  rm.2            40000000 meso
+Mutant Snail Familiar                              - Kuroneko135                     q.1     b.1     ch.1  rm.2            40000000 meso
+Mutant Snail Familiar                              - ThisNameMine                    q.1     b.1     ch.1  rm.2            59999999 meso
+Mystic Black Silk Hat                              - Haya4Kanna                      q.1     b.1     ch.1  rm.6           399999999 meso
+Mystic Black Silk Hat                              - yurkuul                         q.1     b.1     ch.1  rm.4           350000000 meso
+Mystic Black Silk Hat                              - Sepxy                           q.1     b.1     ch.1  rm.4           324999999 meso
+Mystic Black Silk Ribbon                           - Atalor                          q.1     b.1     ch.1  rm.4           500000000 meso
+Navigator Otter                                    - juuree                          q.4     b.1     ch.1  rm.3             1999999 meso
+Necro Bloody Mist                                  - NinjaSnows                      q.1     b.1     ch.1  rm.3              199999 meso
+Necro Eagle                                        - NinjaSnows                      q.1     b.1     ch.1  rm.3               99999 meso
+Necro Hammer                                       - NinjaSnows                      q.1     b.1     ch.1  rm.3              199999 meso
+Necro Jester                                       - NinjaSnows                      q.1     b.1     ch.1  rm.3              199999 meso
+Necro Longbow                                      - NinjaSnows                      q.1     b.1     ch.1  rm.3               99999 meso
+Necro Polearm                                      - NinjaSnows                      q.1     b.1     ch.1  rm.3              199999 meso
+Necro Purple Dragon                                - NinjaSnows                      q.0     b.1     ch.1  rm.3              199999 meso
+Necro Slayer                                       - NinjaSnows                      q.1     b.1     ch.1  rm.3              199999 meso
+Necro Zweihander                                   - NinjaSnows                      q.1     b.1     ch.1  rm.3              199999 meso
+Necromancer Warrior Lucky Item Scroll              - meltsmyloins                    q.3     b.1     ch.1  rm.3              400000 meso
+Necromancer Warrior Suit                           - muskate12                       q.1     b.1     ch.1  rm.2               99999 meso
+Neo Light Sword                                    - Atalor                          q.1     b.1     ch.1  rm.4           500000000 meso
+Nimble Ring IV                                     - tieuxung                        q.1     b.1     ch.1  rm.3              150000 meso
+Nova Altair Cloak                                  - YuMpI07                         q.1     b.1     ch.1  rm.3           650000000 meso
+Nova Hermes Boots                                  - Ahkuni                          q.1     b.1     ch.1  rm.1          3450000000 meso
+Nova Hermes Boots                                  - Ahkuni                          q.1     b.1     ch.1  rm.1          3450000000 meso
+Nova Hyades Boots                                  - LemiLime                        q.1     b.1     ch.1  rm.1          2999999999 meso
+Nova Lycaon Boots                                  - Asian5Ever                      q.1     b.1     ch.1  rm.2           499999999 meso
+Odette Ballet Slippers                             - HeroicShaun                     q.1     b.1     ch.1  rm.5            99999999 meso
+Odette Tiara                                       - Sepxy                           q.1     b.1     ch.1  rm.4            99999999 meso
+Odette Tutu                                        - lnuka                           q.1     b.1     ch.1  rm.1           445000000 meso
+Odile Ballet Slippers                              - lnuka                           q.1     b.1     ch.1  rm.1            69000000 meso
+Odile Ballet Slippers                              - Sepxy                           q.1     b.1     ch.1  rm.4            74999999 meso
+Odile Ballet Slippers                              - Sepxy                           q.1     b.1     ch.1  rm.4            74999999 meso
+Odile Tiara                                        - MrAppIeCups                     q.1     b.1     ch.1  rm.4           125999999 meso
+Official Knight D Familiar                         - itztururu                       q.1     b.1     ch.1  rm.4           199999999 meso
+Opal                                               - ArcaneGust                      q.435   b.1     ch.1  rm.4              699999 meso
+Orange Cat Beanie                                  - Reiero                          q.1     b.1     ch.1  rm.3           549999999 meso
+Orange Pea Coat                                    - lnuka                           q.1     b.1     ch.1  rm.1           190000000 meso
+Oyamatsumi's Gloves                                - Ahkuni                          q.1     b.1     ch.1  rm.1          2945000000 meso
+Parfait Cupcake Hairpin                            - juuree                          q.1     b.1     ch.1  rm.2           199999999 meso
+Penetrating Boost Potion                           - juuree                          q.3     b.1     ch.1  rm.2            18999999 meso
+Pensalir Battle Cape                               - CastleBeast                     q.0     b.1     ch.1  rm.4              199999 meso
+Pensalir Battle Cape                               - CastleBeast                     q.1     b.1     ch.1  rm.4            14999999 meso
+Pensalir Battle Gloves                             - tieuxung                        q.0     b.1     ch.1  rm.3            19999999 meso
+Pensalir Chaser Cape                               - StarShineArc                    q.1     b.1     ch.1  rm.2             4999999 meso
+Pensalir Chaser Cape                               - xRevengerx94                    q.0     b.1     ch.1  rm.5              149999 meso
+Pensalir Chaser Cape                               - xRevengerx94                    q.0     b.1     ch.1  rm.5               99999 meso
+Pensalir Chaser Hat                                - Desmondil                       q.1     b.1     ch.1  rm.2              499999 meso
+Pensalir Mage Boots                                - Haya4Kanna                      q.1     b.1     ch.1  rm.6             9999999 meso
+Pensalir Mage Boots                                - Haya4Kanna                      q.1     b.1     ch.1  rm.6             9999999 meso
+Pensalir Mage Gloves                               - Haya4Kanna                      q.1     b.1     ch.1  rm.6             9999999 meso
+Pensalir Mage Gloves                               - Haya4Kanna                      q.1     b.1     ch.1  rm.6             9999999 meso
+Pensalir Mage Gloves                               - Haya4Kanna                      q.1     b.1     ch.1  rm.6             9999999 meso
+Pensalir Mage Gloves                               - Haya4Kanna                      q.1     b.1     ch.1  rm.6             9999999 meso
+Pensalir Mage Robe                                 - Haya4Kanna                      q.1     b.1     ch.1  rm.6             9999999 meso
+Pensalir Mage Sallet                               - Haya4Kanna                      q.1     b.1     ch.1  rm.6             9999999 meso
+Pensalir Skipper Cape                              - Desmondil                       q.1     b.1     ch.1  rm.2             1999999 meso
+Pensalir Skipper Hat                               - Desmondil                       q.1     b.1     ch.1  rm.2              499999 meso
+Pensalir Skipper Hat                               - Desmondil                       q.1     b.1     ch.1  rm.2             4999999 meso
+Perfect Absolute Belt                              - RyanMeNotYou                    q.1     b.1     ch.1  rm.2           749999999 meso
+Perfect Bonus Potential Stamp                      - Haya4Kanna                      q.1     b.1     ch.1  rm.6           199999999 meso
+Perfect Bonus Potential Stamp                      - Reiero                          q.1     b.1     ch.1  rm.3           150000000 meso
+Permanent Feline Pirate Ship Mount Coupon          - juuree                          q.2     b.1     ch.1  rm.2            99999999 meso
+Permanent Hot-Air Balloon Mount Coupon             - juuree                          q.1     b.1     ch.1  rm.2           150000000 meso
+Permanent Jet Boat Mount Coupon                    - ThisNameMine                    q.1     b.1     ch.1  rm.2            39999999 meso
+Permanent Minicopter Mount Coupon                  - juuree                          q.1     b.1     ch.1  rm.2           225000000 meso
+Persimmon Branch                                   - Hunniies                        q.1     b.1     ch.1  rm.3           299999999 meso
+Petite Diablo                                      - Hunniies                        q.0     b.1     ch.1  rm.3           249999999 meso
+Petite Diablo                                      - Sepxy                           q.1     b.1     ch.1  rm.4           324999999 meso
+Philosopher's Stone                                - ThisNameMine                    q.151   b.1     ch.1  rm.2               79999 meso
+Phoenix Rising                                     - tieuxung                        q.1     b.1     ch.1  rm.3             4999999 meso
+Piece of Time                                      - lReBornXxMy                     q.400   b.1     ch.1  rm.3             1299999 meso
+Pimp Stick                                         - MrAppIeCups                     q.1     b.1     ch.1  rm.4          1299999999 meso
+Pink Holy Cup                                      - Kaxea                           q.1     b.1     ch.1  rm.4            29999999 meso
+Pink Holy Cup                                      - Kaxea                           q.1     b.1     ch.1  rm.4            29999999 meso
+Pink Lolita Outfit                                 - Sepxy                           q.1     b.1     ch.1  rm.4           399999999 meso
+Pink Mochi Ice                                     - Hunniies                        q.1     b.1     ch.1  rm.3           499999999 meso
+Pink Mochi Ice                                     - Kaxea                           q.1     b.1     ch.1  rm.4           249999999 meso
+Pink Teddy Chair                                   - MeitouSandai                    q.1     b.1     ch.1  rm.1           444444444 meso
+Pink Zakum Chair                                   - YuMpI07                         q.1     b.1     ch.1  rm.3            99999999 meso
+Pinnacle Ring                                      - siCky911                        q.1     b.1     ch.1  rm.1          9499999999 meso
+Pinnacle Snow                                      - Hunniies                        q.1     b.1     ch.1  rm.3            99999999 meso
+Pious Shaman Stockings                             - moraweifeng                     q.1     b.1     ch.1  rm.2            49999999 meso
+Pony Gloves                                        - Haya4Kanna                      q.1     b.1     ch.1  rm.6           349999999 meso
+Pony Wing Shoes                                    - Kaxea                           q.1     b.1     ch.1  rm.4            99999999 meso
+Pony Wing Shoes                                    - MrAppIeCups                     q.1     b.1     ch.1  rm.4            99999999 meso
+Pony Wing Shoes                                    - Sepxy                           q.1     b.1     ch.1  rm.4           199999999 meso
+Portly Penguin Mount Coupon (90 days)              - Alphide                         q.1     b.1     ch.1  rm.4            50000000 meso
+Potential Scroll                                   - yansangao                       q.66    b.1     ch.1  rm.2             1988888 meso
+Potential Scroll                                   - zaccytan                        q.30    b.1     ch.1  rm.4             4999999 meso
+Powder Flats                                       - lnuka                           q.1     b.1     ch.1  rm.1           129450000 meso
+Powder Flats                                       - yurkuul                         q.1     b.1     ch.1  rm.4           137499999 meso
+Power Elixir                                       - Desmondil                       q.300   b.1     ch.1  rm.2                5000 meso
+Power Elixir                                       - juuree                          q.300   b.1     ch.1  rm.2                6500 meso
+Power Elixir                                       - juuree                          q.300   b.1     ch.1  rm.3                6100 meso
+Power Elixir                                       - juuree                          q.300   b.1     ch.1  rm.3                6100 meso
+Power Elixir                                       - juuree                          q.300   b.1     ch.1  rm.3                6100 meso
+Power Elixir                                       - juuree                          q.300   b.1     ch.1  rm.3                6100 meso
+Power Suit 90-Day Coupon                           - Jerohab                         q.1     b.1     ch.1  rm.1            39999999 meso
+Powerful Tree Branch Nose                          - iDupStePz                       q.0     b.1     ch.1  rm.2            24999999 meso
+Pretty Teddy                                       - lnuka                           q.1     b.1     ch.1  rm.1           119450000 meso
+Pretty Teddy                                       - MrAppIeCups                     q.1     b.1     ch.1  rm.4           125999999 meso
+Pretty Teddy                                       - Sepxy                           q.1     b.1     ch.1  rm.4           149999999 meso
+Production Soul Enchanter                          - GuiseAmirite                    q.0     b.1     ch.1  rm.3           449999999 meso
+Purification Totem                                 - StMase                          q.6     b.1     ch.1  rm.4              111111 meso
+Purple Enigma                                      - xElit3Magic                     q.1     b.1     ch.1  rm.3             5000000 meso
+Purple Rainbow Sneaks                              - BelIandCute                     q.1     b.1     ch.1  rm.2           120000000 meso
+Purple Senior Shoes                                - zaccytan                        q.1     b.1     ch.1  rm.4               99999 meso
+Purple Senior Shoes                                - zaccytan                        q.1     b.1     ch.1  rm.4               99999 meso
+Purple Senior Suit                                 - zaccytan                        q.1     b.1     ch.1  rm.4               99999 meso
+Queen's Tiara                                      - IceChloe92                      q.1     b.1     ch.1  rm.2             4999999 meso
+Queen's Tiara                                      - IceChloe92                      q.1     b.1     ch.1  rm.1             4999999 meso
+Queen's Tiara                                      - YuMpI07                         q.1     b.1     ch.1  rm.3             2000000 meso
+Rabbit Rickshaw 90-Day Coupon                      - xElit3Magic                     q.1     b.1     ch.1  rm.3            60000000 meso
+Raven Horn Baselard                                - Sooklemule                      q.1     b.1     ch.1  rm.1            24444444 meso
+Raven Horn Baselard                                - AcceITurn                       q.1     b.1     ch.1  rm.4            19999999 meso
+Raven Horn Baselard                                - MeitouSandai                    q.1     b.1     ch.1  rm.1           222222222 meso
+Raven Horn Chaser Gloves                           - moraweifeng                     q.1     b.1     ch.1  rm.2            14999999 meso
+Raven Horn Chaser Hat                              - IceChloe92                      q.1     b.1     ch.1  rm.1            55999999 meso
+Raven Horn Crimson Cane                            - moraweifeng                     q.0     b.1     ch.1  rm.2            14999999 meso
+Raven Horn Crimson Cane                            - WhiSoSer1us                     q.1     b.1     ch.1  rm.2           123456789 meso
+Raven Horn Fallen Queen                            - MeitouSandai                    q.1     b.1     ch.1  rm.1           188888888 meso
+Raven Horn Metal Fist                              - MeitouSandai                    q.1     b.1     ch.1  rm.1           199999999 meso
+Raven Horn Shadow Katara                           - Prokyser                        q.1     b.1     ch.1  rm.1             8999999 meso
+Recharger Chair                                    - Alphide                         q.1     b.1     ch.1  rm.4            75000000 meso
+Red "F"                                            - Jerohab                         q.1     b.1     ch.1  rm.1              999999 meso
+Red Arnah Shoes                                    - IceChloe92                      q.1     b.1     ch.1  rm.1            99999999 meso
+Red Elephant Balloon                               - RyanMeNotYou                    q.1     b.1     ch.1  rm.2           999999999 meso
+Red Hot Racer T                                    - Ahkuni                          q.1     b.1     ch.1  rm.1           290000000 meso
+Red Hunter Shoes                                   - ElwingXecty                     q.1     b.1     ch.1  rm.1          9999999999 meso
+Red Knuckle                                        - SoDesuKaXD                      q.1     b.1     ch.1  rm.2            19999999 meso
+Red Peacock Pendant                                - WhiSoSer1us                     q.1     b.1     ch.1  rm.2            22222222 meso
+Red Pierre Hat                                     - iDiscontent                     q.0     b.1     ch.1  rm.2            49999999 meso
+Red Riding Hood                                    - juuree                          q.1     b.1     ch.1  rm.2           199999999 meso
+Red Spirit Bandana                                 - Ahkuni                          q.1     b.1     ch.1  rm.1           290000000 meso
+Reinforced Engraved Gollux Belt                    - LemiLime                        q.1     b.1     ch.1  rm.1           299999999 meso
+Reinforced Engraved Gollux Belt                    - LemiLime                        q.1     b.1     ch.1  rm.1           699999999 meso
+Reinforced Engraved Gollux Belt                    - LemiLime                        q.1     b.1     ch.1  rm.1          1199999999 meso
+Reinforced Engraved Gollux Belt                    - DreamZe                         q.1     b.1     ch.1  rm.3          5999999999 meso
+Reinforced Engraved Gollux Belt                    - iArrowz01                       q.1     b.1     ch.1  rm.4          2000000000 meso
+Reinforced Engraved Gollux Belt                    - MoyashiRaku                     q.1     b.1     ch.1  rm.3            39999999 meso
+Reinforced Engraved Gollux Belt                    - iArrowz01                       q.1     b.1     ch.1  rm.4            50000000 meso
+Reinforced Engraved Gollux Belt                    - iArrowz01                       q.1     b.1     ch.1  rm.4            50000000 meso
+Reinforced Engraved Gollux Pendant                 - LemiLime                        q.1     b.1     ch.1  rm.1           999999999 meso
+Reinforced Engraved Gollux Pendant                 - andyto02                        q.1     b.1     ch.1  rm.1           222222222 meso
+Reinforced Engraved Gollux Pendant                 - OHZimmy                         q.1     b.1     ch.1  rm.1           348888888 meso
+Reinforced Engraved Gollux Pendant                 - LemiLime                        q.1     b.1     ch.1  rm.1          1299999999 meso
+Reinforced Engraved Gollux Pendant                 - Sooklemule                      q.1     b.1     ch.1  rm.1           338888888 meso
+Reinforced Engraved Gollux Pendant                 - YuMpI07                         q.1     b.1     ch.1  rm.3           450000000 meso
+Reinforced Engraved Gollux Pendant                 - OHZimmy                         q.1     b.1     ch.1  rm.1           599999999 meso
+Reinforced Engraved Gollux Pendant                 - OHZimmy                         q.1     b.1     ch.1  rm.1           649999999 meso
+Reinforced Engraved Gollux Pendant                 - GuiseAmirite                    q.1     b.1     ch.1  rm.3          1299999999 meso
+Reinforced Engraved Gollux Pendant                 - xCrimmyx                        q.1     b.1     ch.1  rm.4           639999999 meso
+Reinforced Engraved Gollux Pendant                 - RyanMeNotYou                    q.1     b.1     ch.1  rm.2          2999999999 meso
+Reinforced Engraved Gollux Pendant                 - RyanMeNotYou                    q.1     b.1     ch.1  rm.2           399999999 meso
+Reinforced Engraved Gollux Pendant                 - BeTheOptima                     q.1     b.1     ch.1  rm.1            49999999 meso
+Reinforced Engraved Gollux Pendant                 - andyto02                        q.1     b.1     ch.1  rm.1          3888888888 meso
+Reinforced Engraved Gollux Pendant                 - andyto02                        q.1     b.1     ch.1  rm.1          4222222222 meso
+Reinforced Engraved Gollux Pendant                 - NobleKuraudo                    q.0     b.1     ch.1  rm.1            39999999 meso
+Reinforced Engraved Gollux Pendant                 - Prokyser                        q.1     b.1     ch.1  rm.1            44999999 meso
+Reinforced Engraved Gollux Pendant                 - Prokyser                        q.1     b.1     ch.1  rm.1            44999999 meso
+Reinforced Engraved Gollux Pendant                 - Prokyser                        q.1     b.1     ch.1  rm.1            49999999 meso
+Reinforced Engraved Gollux Pendant                 - lnuka                           q.1     b.1     ch.1  rm.1            55000000 meso
+Reinforced Engraved Gollux Pendant                 - MoyashiRaku                     q.1     b.1     ch.1  rm.3            49999999 meso
+Reinforced Engraved Gollux Pendant                 - DreamZe                         q.1     b.1     ch.1  rm.3            43999999 meso
+Reinforced Engraved Gollux Pendant                 - xCrimmyx                        q.0     b.1     ch.1  rm.4            44999999 meso
+Reinforced Engraved Gollux Pendant                 - xCrimmyx                        q.0     b.1     ch.1  rm.4            42999999 meso
+Reinforced Engraved Gollux Pendant                 - ArcaneGust                      q.1     b.1     ch.1  rm.4            48999999 meso
+Reinforced Gollux Earrings                         - ArcaneGust                      q.1     b.1     ch.1  rm.4          2499999999 meso
+Reinforced Gollux Earrings                         - SneakFreaky                     q.1     b.1     ch.1  rm.1          9999999999 meso
+Reinforced Gollux Ring                             - siCky911                        q.1     b.1     ch.1  rm.1          9999999999 meso
+Reinforced Gollux Ring                             - siCky911                        q.1     b.1     ch.1  rm.1          9999999999 meso
+Reinforced Gollux Ring                             - siCky911                        q.1     b.1     ch.1  rm.1          9999999999 meso
+Reinforced Gollux Ring                             - Holllup                         q.1     b.1     ch.1  rm.3          4999999999 meso
+Reinforced Gollux Ring                             - BelIandCute                     q.1     b.1     ch.1  rm.2          1850000000 meso
+Reinforced Gollux Ring                             - DesoIates                       q.1     b.1     ch.1  rm.5          9999999999 meso
+Reinforced Gollux Ring                             - ArcaneGust                      q.1     b.1     ch.1  rm.4          2999999999 meso
+Reverse Bellocce                                   - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Reverse Diesra                                     - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Reverse Hefty Head                                 - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Reverse Killic                                     - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Reverse Lampion                                    - Sobacknow                       q.0     b.1     ch.1  rm.4             4999999 meso
+Reverse Nibleheim                                  - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Revolution Gloves                                  - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Revolution Kitty Soul Scepter                      - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Revolution Shooting Star                           - Desmondil                       q.1     b.1     ch.1  rm.2            59999999 meso
+Rock of Time                                       - lReBornXxMy                     q.6     b.1     ch.1  rm.3             9999999 meso
+Rock of Time                                       - Kaxea                           q.6     b.1     ch.1  rm.4             9999999 meso
+Rock of Time                                       - BrownAvocado                    q.5     b.1     ch.1  rm.4             9999999 meso
+Royal Assassin Hood                                - WhiSoSer1us                     q.1     b.1     ch.1  rm.2            99999999 meso
+Royal Assassin Hood                                - OHZimmy                         q.0     b.1     ch.1  rm.1            44444444 meso
+Royal Assassin Hood                                - OHZimmy                         q.0     b.1     ch.1  rm.1            49999999 meso
+Royal Assassin Hood                                - LemiLime                        q.1     b.1     ch.1  rm.1           199999999 meso
+Royal Assassin Hood                                - andyto02                        q.0     b.1     ch.1  rm.1            44444444 meso
+Royal Assassin Hood                                - KaiserKY                        q.1     b.1     ch.1  rm.1            79999999 meso
+Royal Assassin Hood                                - KaiserKY                        q.1     b.1     ch.1  rm.1            79999999 meso
+Royal Assassin Hood                                - xCrimmyx                        q.1     b.1     ch.1  rm.4            49999999 meso
+Royal Assassin Hood                                - xCrimmyx                        q.1     b.1     ch.1  rm.4            47999999 meso
+Royal Assassin Hood                                - AcceITurn                       q.1     b.1     ch.1  rm.4            45999999 meso
+Royal Black Metal Shoulder                         - StarShineArc                    q.1     b.1     ch.1  rm.2           249999999 meso
+Royal Black Metal Shoulder                         - StarShineArc                    q.1     b.1     ch.1  rm.2            79999999 meso
+Royal Black Metal Shoulder                         - amymikeMULE                     q.1     b.1     ch.1  rm.2            44444444 meso
+Royal Black Metal Shoulder                         - amymikeMULE                     q.1     b.1     ch.1  rm.2            44444444 meso
+Royal Black Metal Shoulder                         - showdota                        q.1     b.1     ch.1  rm.1            33333333 meso
+Royal Black Metal Shoulder                         - pbjban                          q.1     b.1     ch.1  rm.1            29999999 meso
+Royal Black Metal Shoulder                         - BeTheOptima                     q.0     b.1     ch.1  rm.1            29999999 meso
+Royal Black Metal Shoulder                         - LemiLime                        q.1     b.1     ch.1  rm.1           249999999 meso
+Royal Black Metal Shoulder                         - andyto02                        q.1     b.1     ch.1  rm.1           666666666 meso
+Royal Black Metal Shoulder                         - YuMpI07                         q.1     b.1     ch.1  rm.3            50000000 meso
+Royal Black Metal Shoulder                         - YuMpI07                         q.1     b.1     ch.1  rm.3            50000000 meso
+Royal Black Metal Shoulder                         - Procloa                         q.1     b.1     ch.1  rm.3            29999999 meso
+Royal Black Metal Shoulder                         - Procloa                         q.1     b.1     ch.1  rm.3            29999999 meso
+Royal Black Metal Shoulder                         - lnuka                           q.0     b.1     ch.1  rm.1            25000000 meso
+Royal Black Metal Shoulder                         - Butterfly093                    q.1     b.1     ch.1  rm.3           249999999 meso
+Royal Dunwitch Hat                                 - OHZimmy                         q.0     b.1     ch.1  rm.1            24999999 meso
+Royal Dunwitch Hat                                 - NobleKuraudo                    q.0     b.1     ch.1  rm.1           199999999 meso
+Royal Harp                                         - Reiero                          q.1     b.1     ch.1  rm.3           149999999 meso
+Royal Ranger Beret                                 - juuree                          q.1     b.1     ch.1  rm.2             7777777 meso
+Royal Ranger Beret                                 - SneakFreaky                     q.1     b.1     ch.1  rm.1             4999999 meso
+Royal Ranger Beret                                 - LemiLime                        q.1     b.1     ch.1  rm.1            19999999 meso
+Royal Ranger Beret                                 - KaiserKY                        q.1     b.1     ch.1  rm.1            14999999 meso
+Royal Ranger Beret                                 - KaiserKY                        q.1     b.1     ch.1  rm.1             7999999 meso
+Royal Ranger Beret                                 - Prokyser                        q.1     b.1     ch.1  rm.1            11111111 meso
+Royal Ranger Beret                                 - GuiseAmirite                    q.1     b.1     ch.1  rm.3            19999999 meso
+Royal Ranger Beret                                 - xCrimmyx                        q.1     b.1     ch.1  rm.4             9999999 meso
+Royal Ranger Beret                                 - xCrimmyx                        q.1     b.1     ch.1  rm.4           149999999 meso
+Royal Ranger Beret                                 - ElwingXecty                     q.1     b.1     ch.1  rm.1          9999999999 meso
+Royal Spoiled Fairy                                - BelIandCute                     q.1     b.1     ch.1  rm.2          1500500500 meso
+Royal Wanderer Hat                                 - moraweifeng                     q.1     b.1     ch.1  rm.2            24999999 meso
+Royal Wanderer Hat                                 - WhiSoSer1us                     q.1     b.1     ch.1  rm.2            14555555 meso
+Royal Wanderer Hat                                 - SneakFreaky                     q.1     b.1     ch.1  rm.1             9999999 meso
+Royal Wanderer Hat                                 - pbjban                          q.1     b.1     ch.1  rm.1            19999999 meso
+Royal Wanderer Hat                                 - Sooklemule                      q.0     b.1     ch.1  rm.1            17888888 meso
+Royal Wanderer Hat                                 - andyto02                        q.1     b.1     ch.1  rm.1            24444444 meso
+Royal Wanderer Hat                                 - andyto02                        q.1     b.1     ch.1  rm.1            19888888 meso
+Royal Wanderer Hat                                 - KaiserKY                        q.1     b.1     ch.1  rm.1            19999999 meso
+Royal Wanderer Hat                                 - DreamZe                         q.1     b.1     ch.1  rm.3           199999999 meso
+Royal Warrior Helm                                 - OHZimmy                         q.0     b.1     ch.1  rm.1           184999999 meso
+Royal Warrior Helm                                 - OHZimmy                         q.1     b.1     ch.1  rm.1           184999999 meso
+Royal Warrior Helm                                 - pbjban                          q.1     b.1     ch.1  rm.1           199999999 meso
+Royal Warrior Helm                                 - LemiLime                        q.1     b.1     ch.1  rm.1           249999999 meso
+Royal Warrior Helm                                 - Butterfly093                    q.0     b.1     ch.1  rm.3           199999999 meso
+Scarlet Earring                                    - siCky911                        q.1     b.1     ch.1  rm.1          9499999999 meso
+Scary Toy Gift                                     - SoDesuKaXD                      q.0     b.1     ch.1  rm.2             9999999 meso
+Scroll for Armor LUK 60%                           - itztururu                       q.1     b.1     ch.1  rm.4             9999999 meso
+Scroll for Claw for ATT 10%                        - StMase                          q.1     b.1     ch.1  rm.4              999999 meso
+Scroll for Claw for ATT 60%                        - Holllup                         q.1     b.1     ch.1  rm.3             9999999 meso
+Scroll for Earring for LUK 60%                     - tieuxung                        q.1     b.1     ch.1  rm.3              200000 meso
+Scroll for Earring for LUK 60%                     - itztururu                       q.1     b.1     ch.1  rm.4             9999999 meso
+Scroll for Gloves for Magic Attack 60%             - StMase                          q.1     b.1     ch.1  rm.4             2222222 meso
+Scroll for Pet Equip. for ATT 60%                  - lnuka                           q.3     b.1     ch.1  rm.1           190000000 meso
+Scroll for Topwear for STR 60%                     - itztururu                       q.1     b.1     ch.1  rm.4             9999999 meso
+Seal Pillow                                        - Atalor                          q.1     b.1     ch.1  rm.4          3000000000 meso
+Serpent Staff                                      - StMase                          q.1     b.1     ch.1  rm.4             7777777 meso
+Settee Chair                                       - Jerohab                         q.1     b.1     ch.1  rm.1            49999999 meso
+Shadow Peacemaker                                  - RyanMeNotYou                    q.1     b.1     ch.1  rm.2           999999999 meso
+Shark Tooth Fallen Queen                           - Prokyser                        q.1     b.1     ch.1  rm.1             8999999 meso
+Shark Tooth Sharpshooter                           - IceChloe92                      q.1     b.1     ch.1  rm.1             9999999 meso
+Shark Tooth Sharpshooter                           - tieuxung                        q.1     b.1     ch.1  rm.3             4999999 meso
+Shark Tooth Skipper Boots                          - Prokyser                        q.0     b.1     ch.1  rm.1             9999999 meso
+Shark Tooth Skipper Cape                           - AcceITurn                       q.0     b.1     ch.1  rm.4            49999999 meso
+Shark Tooth Skipper Coat                           - IceChloe92                      q.1     b.1     ch.1  rm.2            10999999 meso
+Shark Tooth Skipper Coat                           - Prokyser                        q.0     b.1     ch.1  rm.1             8999999 meso
+Shark Tooth Skipper Gloves                         - moraweifeng                     q.1     b.1     ch.1  rm.2             3333333 meso
+Shark Tooth Skipper Gloves                         - Prokyser                        q.0     b.1     ch.1  rm.1             8999999 meso
+Shark Tooth Skipper Hat                            - BeTheOptima                     q.0     b.1     ch.1  rm.1             5555555 meso
+Shark Tooth Skipper Hat                            - Prokyser                        q.1     b.1     ch.1  rm.1             8999999 meso
+Shark Tooth Wild Talon                             - AcceITurn                       q.1     b.1     ch.1  rm.4            24999999 meso
+Shining Twin Star                                  - xElit3Magic                     q.1     b.1     ch.1  rm.3            10000000 meso
+Shining Twin Star                                  - xElit3Magic                     q.1     b.1     ch.1  rm.3            10000000 meso
+Shining Twin Star                                  - xElit3Magic                     q.1     b.1     ch.1  rm.3            10000000 meso
+Shroom Buddy Chair                                 - Jerohab                         q.1     b.1     ch.1  rm.1            99999999 meso
+Shroom Buddy Chair                                 - Alphide                         q.1     b.1     ch.1  rm.4            55000000 meso
+Silver Angora Gatsby                               - BelIandCute                     q.1     b.1     ch.1  rm.2           120000000 meso
+Silver Blossom Ring                                - StarShineArc                    q.1     b.1     ch.1  rm.2            79999999 meso
+Silver Blossom Ring                                - WhiSoSer1us                     q.1     b.1     ch.1  rm.2            35555555 meso
+Silver Blossom Ring                                - Desmondil                       q.1     b.1     ch.1  rm.2            25999999 meso
+Silver Blossom Ring                                - IceChloe92                      q.1     b.1     ch.1  rm.2            34999999 meso
+Silver Blossom Ring                                - SneakFreaky                     q.1     b.1     ch.1  rm.1           449999999 meso
+Silver Blossom Ring                                - BeTheOptima                     q.1     b.1     ch.1  rm.1            29999999 meso
+Silver Blossom Ring                                - siCky911                        q.1     b.1     ch.1  rm.1          9499999999 meso
+Silver Blossom Ring                                - LemiLime                        q.1     b.1     ch.1  rm.1           199999999 meso
+Silver Blossom Ring                                - xRevengerx94                    q.0     b.1     ch.1  rm.5            29999999 meso
+Silver Bonus Potential Stamp                       - GuiseAmirite                    q.6     b.1     ch.1  rm.3            69999999 meso
+Silver Earrings                                    - Butterfly093                    q.1     b.1     ch.1  rm.3            99999999 meso
+Silver Plate                                       - ArcaneGust                      q.137   b.1     ch.1  rm.4              749999 meso
+Skelosaurus Familiar                               - itztururu                       q.1     b.1     ch.1  rm.4           159999999 meso
+Sky Blue Cat Beanie                                - Prokyser                        q.1     b.1     ch.1  rm.1           699999999 meso
+Smiling Mask                                       - RyanMeNotYou                    q.1     b.1     ch.1  rm.2          2499999999 meso
+Snowflake Rod                                      - lnuka                           q.1     b.1     ch.1  rm.1           945000000 meso
+Solid Engraved Gollux Belt                         - moraweifeng                     q.1     b.1     ch.1  rm.2            14999999 meso
+Solid Engraved Gollux Belt                         - moraweifeng                     q.0     b.1     ch.1  rm.2            14999999 meso
+Solid Engraved Gollux Belt                         - GuiseAmirite                    q.1     b.1     ch.1  rm.3           129999999 meso
+Solid Engraved Gollux Belt                         - IceChloe92                      q.1     b.1     ch.1  rm.2            54999999 meso
+Solid Engraved Gollux Belt                         - juuree                          q.1     b.1     ch.1  rm.2             8888888 meso
+Solid Engraved Gollux Belt                         - IceChloe92                      q.1     b.1     ch.1  rm.1             9999999 meso
+Solid Engraved Gollux Belt                         - BeTheOptima                     q.1     b.1     ch.1  rm.1            14999999 meso
+Solid Engraved Gollux Belt                         - tieuxung                        q.1     b.1     ch.1  rm.3             6999999 meso
+Solid Engraved Gollux Belt                         - Kaxea                           q.0     b.1     ch.1  rm.4             2999999 meso
+Solid Engraved Gollux Pendant                      - pbjban                          q.1     b.1     ch.1  rm.1            55555555 meso
+Solid Engraved Gollux Pendant                      - LemiLime                        q.1     b.1     ch.1  rm.1           299999999 meso
+Solid Engraved Gollux Pendant                      - IceChloe92                      q.1     b.1     ch.1  rm.2             9999999 meso
+Solid Engraved Gollux Pendant                      - IceChloe92                      q.1     b.1     ch.1  rm.1             9999999 meso
+Solid Engraved Gollux Pendant                      - OHZimmy                         q.1     b.1     ch.1  rm.1            49999999 meso
+Solid Engraved Gollux Pendant                      - ArcaneGust                      q.1     b.1     ch.1  rm.4             5999999 meso
+Solid Engraved Gollux Pendant                      - Kaxea                           q.0     b.1     ch.1  rm.4             2999999 meso
+Solid Engraved Gollux Pendant                      - Kaxea                           q.0     b.1     ch.1  rm.4             2499999 meso
+Solid Gollux Earrings                              - Haya4Kanna                      q.1     b.1     ch.1  rm.6           499999999 meso
+Solid Gollux Earrings                              - lReBornXxMy                     q.1     b.1     ch.1  rm.3           399999999 meso
+Solid Gollux Earrings                              - iArrowz01                       q.1     b.1     ch.1  rm.4           300000000 meso
+Solid Gollux Ring                                  - BelIandCute                     q.1     b.1     ch.1  rm.2           800000000 meso
+Solid Gollux Ring                                  - ArcaneGust                      q.1     b.1     ch.1  rm.4          1299999999 meso
+Solid Gollux Ring                                  - ElwingXecty                     q.1     b.1     ch.1  rm.1          9999999999 meso
+Solo Ring                                          - juuree                          q.1     b.1     ch.1  rm.2           548888888 meso
+Solo Ring                                          - lnuka                           q.1     b.1     ch.1  rm.1           545000000 meso
+Sparkling Buddy                                    - lnuka                           q.1     b.1     ch.1  rm.1           445000000 meso
+Sparkling Buddy                                    - Sepxy                           q.1     b.1     ch.1  rm.4           499999999 meso
+Special Potential Scroll                           - lnuka                           q.1     b.1     ch.1  rm.1           490000000 meso
+Spectrum Goggles                                   - BelIandCute                     q.1     b.1     ch.1  rm.2           850000000 meso
+Spectrum Goggles                                   - BelIandCute                     q.1     b.1     ch.1  rm.2           999999999 meso
+Spectrum Goggles                                   - Procloa                         q.1     b.1     ch.1  rm.3           499999999 meso
+Spell Trace                                        - refafafa                        q.4932  b.1     ch.6  rm.19             999999 meso
+Spell Trace                                        - refafafa                        q.5000  b.1     ch.6  rm.19             999999 meso
+Spell Trace                                        - StarShineArc                    q.4790  b.1     ch.1  rm.2               39999 meso
+Spell Trace                                        - siCky911                        q.0     b.1     ch.1  rm.1                9999 meso
+Spell Trace                                        - MoyashiRaku                     q.3500  b.1     ch.1  rm.3               19999 meso
+Spell Trace                                        - MoyashiRaku                     q.2954  b.1     ch.1  rm.3               19999 meso
+Spell Trace                                        - YuMpI07                         q.5000  b.1     ch.1  rm.3               25000 meso
+Spell Trace                                        - YuMpI07                         q.5000  b.1     ch.1  rm.3               25000 meso
+Spell Trace                                        - YuMpI07                         q.4999  b.1     ch.1  rm.3               25000 meso
+Spell Trace                                        - YuMpI07                         q.5000  b.1     ch.1  rm.3               25000 meso
+Spell Trace                                        - meltsmyloins                    q.1356  b.1     ch.1  rm.3               19900 meso
+Spell Trace                                        - NinjaSnows                      q.800   b.1     ch.1  rm.3               19999 meso
+Spiderweb Pointy Hat                               - RyanMeNotYou                    q.1     b.1     ch.1  rm.2          1999999999 meso
+Spiegelmann's Mineral Pouch                        - muskate12                       q.0     b.1     ch.1  rm.2               99999 meso
+Stance Shift Ring                                  - BeTheOptima                     q.1     b.1     ch.1  rm.1           249999999 meso
+Star Bracelet                                      - Atalor                          q.1     b.1     ch.1  rm.4           300000000 meso
+Star Bracelet                                      - Atalor                          q.1     b.1     ch.1  rm.4           300000000 meso
+Steely Throwing-Knives                             - SoDesuKaXD                      q.1     b.1     ch.1  rm.2             3999999 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.0     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.0     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.0     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.0     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.0     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.0     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.0     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.1     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.1     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.1     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.1     b.1     ch.1  rm.3             3500000 meso
+Stonetooth Sword                                   - StMase                          q.1     b.1     ch.1  rm.4            29999999 meso
+Stonetooth Sword                                   - StMase                          q.1     b.1     ch.1  rm.4            29999999 meso
+Strawberry Sword                                   - Ahkuni                          q.1     b.1     ch.1  rm.1           245000000 meso
+Strength Boost Potion Recipe                       - muskate12                       q.0     b.1     ch.1  rm.2                9999 meso
+Strength Potion II                                 - lnuka                           q.1     b.1     ch.1  rm.1          1111111111 meso
+Strength Ring VI                                   - IceChloe92                      q.1     b.1     ch.1  rm.1             5999999 meso
+Strength Ring VI                                   - IceChloe92                      q.1     b.1     ch.1  rm.1             6999999 meso
+Striped Knitted Beanie                             - lnuka                           q.1     b.1     ch.1  rm.1           345000000 meso
+Super Giant Mushroom Chair                         - StMase                          q.1     b.1     ch.1  rm.4           555555555 meso
+Superior Blessing Potion Recipe                    - Holllup                         q.1     b.1     ch.1  rm.3             9999999 meso
+Superior Engraved Gollux Belt                      - LemiLime                        q.1     b.1     ch.1  rm.1          3999999999 meso
+Superior Engraved Gollux Belt                      - yoZimmy                         q.1     b.1     ch.1  rm.1           499999999 meso
+Superior Engraved Gollux Belt                      - yoZimmy                         q.1     b.1     ch.1  rm.1           499999999 meso
+Superior Engraved Gollux Belt                      - yoZimmy                         q.1     b.1     ch.1  rm.1           499999999 meso
+Superior Engraved Gollux Belt                      - yoZimmy                         q.1     b.1     ch.1  rm.1           499999999 meso
+Raven Horn Baselard                                - AcceITurn                       q.1     b.1     ch.1  rm.4            19999999 meso
+Raven Horn Baselard                                - MeitouSandai                    q.1     b.1     ch.1  rm.1           222222222 meso
+Raven Horn Chaser Gloves                           - moraweifeng                     q.1     b.1     ch.1  rm.2            14999999 meso
+Raven Horn Chaser Hat                              - IceChloe92                      q.1     b.1     ch.1  rm.1            55999999 meso
+Raven Horn Crimson Cane                            - moraweifeng                     q.0     b.1     ch.1  rm.2            14999999 meso
+Raven Horn Crimson Cane                            - WhiSoSer1us                     q.1     b.1     ch.1  rm.2           123456789 meso
+Raven Horn Fallen Queen                            - MeitouSandai                    q.1     b.1     ch.1  rm.1           188888888 meso
+Raven Horn Metal Fist                              - MeitouSandai                    q.1     b.1     ch.1  rm.1           199999999 meso
+Raven Horn Shadow Katara                           - Prokyser                        q.1     b.1     ch.1  rm.1             8999999 meso
+Recharger Chair                                    - Alphide                         q.1     b.1     ch.1  rm.4            75000000 meso
+Red "F"                                            - Jerohab                         q.1     b.1     ch.1  rm.1              999999 meso
+Red Arnah Shoes                                    - IceChloe92                      q.1     b.1     ch.1  rm.1            99999999 meso
+Red Elephant Balloon                               - RyanMeNotYou                    q.1     b.1     ch.1  rm.2           999999999 meso
+Red Hot Racer T                                    - Ahkuni                          q.1     b.1     ch.1  rm.1           290000000 meso
+Red Hunter Shoes                                   - ElwingXecty                     q.1     b.1     ch.1  rm.1          9999999999 meso
+Red Knuckle                                        - SoDesuKaXD                      q.1     b.1     ch.1  rm.2            19999999 meso
+Red Peacock Pendant                                - WhiSoSer1us                     q.1     b.1     ch.1  rm.2            22222222 meso
+Red Pierre Hat                                     - iDiscontent                     q.0     b.1     ch.1  rm.2            49999999 meso
+Red Riding Hood                                    - juuree                          q.1     b.1     ch.1  rm.2           199999999 meso
+Red Spirit Bandana                                 - Ahkuni                          q.1     b.1     ch.1  rm.1           290000000 meso
+Reinforced Engraved Gollux Belt                    - LemiLime                        q.1     b.1     ch.1  rm.1           299999999 meso
+Reinforced Engraved Gollux Belt                    - LemiLime                        q.1     b.1     ch.1  rm.1           699999999 meso
+Reinforced Engraved Gollux Belt                    - LemiLime                        q.1     b.1     ch.1  rm.1          1199999999 meso
+Reinforced Engraved Gollux Belt                    - DreamZe                         q.1     b.1     ch.1  rm.3          5999999999 meso
+Reinforced Engraved Gollux Belt                    - iArrowz01                       q.1     b.1     ch.1  rm.4          2000000000 meso
+Reinforced Engraved Gollux Belt                    - MoyashiRaku                     q.1     b.1     ch.1  rm.3            39999999 meso
+Reinforced Engraved Gollux Belt                    - iArrowz01                       q.1     b.1     ch.1  rm.4            50000000 meso
+Reinforced Engraved Gollux Belt                    - iArrowz01                       q.1     b.1     ch.1  rm.4            50000000 meso
+Reinforced Engraved Gollux Pendant                 - LemiLime                        q.1     b.1     ch.1  rm.1           999999999 meso
+Reinforced Engraved Gollux Pendant                 - andyto02                        q.1     b.1     ch.1  rm.1           222222222 meso
+Reinforced Engraved Gollux Pendant                 - OHZimmy                         q.1     b.1     ch.1  rm.1           348888888 meso
+Reinforced Engraved Gollux Pendant                 - LemiLime                        q.1     b.1     ch.1  rm.1          1299999999 meso
+Reinforced Engraved Gollux Pendant                 - Sooklemule                      q.1     b.1     ch.1  rm.1           338888888 meso
+Reinforced Engraved Gollux Pendant                 - YuMpI07                         q.1     b.1     ch.1  rm.3           450000000 meso
+Reinforced Engraved Gollux Pendant                 - OHZimmy                         q.1     b.1     ch.1  rm.1           599999999 meso
+Reinforced Engraved Gollux Pendant                 - OHZimmy                         q.1     b.1     ch.1  rm.1           649999999 meso
+Reinforced Engraved Gollux Pendant                 - GuiseAmirite                    q.1     b.1     ch.1  rm.3          1299999999 meso
+Reinforced Engraved Gollux Pendant                 - xCrimmyx                        q.1     b.1     ch.1  rm.4           639999999 meso
+Reinforced Engraved Gollux Pendant                 - RyanMeNotYou                    q.1     b.1     ch.1  rm.2          2999999999 meso
+Reinforced Engraved Gollux Pendant                 - RyanMeNotYou                    q.1     b.1     ch.1  rm.2           399999999 meso
+Reinforced Engraved Gollux Pendant                 - BeTheOptima                     q.1     b.1     ch.1  rm.1            49999999 meso
+Reinforced Engraved Gollux Pendant                 - andyto02                        q.1     b.1     ch.1  rm.1          3888888888 meso
+Reinforced Engraved Gollux Pendant                 - andyto02                        q.1     b.1     ch.1  rm.1          4222222222 meso
+Reinforced Engraved Gollux Pendant                 - NobleKuraudo                    q.0     b.1     ch.1  rm.1            39999999 meso
+Reinforced Engraved Gollux Pendant                 - Prokyser                        q.1     b.1     ch.1  rm.1            44999999 meso
+Reinforced Engraved Gollux Pendant                 - Prokyser                        q.1     b.1     ch.1  rm.1            44999999 meso
+Reinforced Engraved Gollux Pendant                 - Prokyser                        q.1     b.1     ch.1  rm.1            49999999 meso
+Reinforced Engraved Gollux Pendant                 - lnuka                           q.1     b.1     ch.1  rm.1            55000000 meso
+Reinforced Engraved Gollux Pendant                 - MoyashiRaku                     q.1     b.1     ch.1  rm.3            49999999 meso
+Reinforced Engraved Gollux Pendant                 - DreamZe                         q.1     b.1     ch.1  rm.3            43999999 meso
+Reinforced Engraved Gollux Pendant                 - xCrimmyx                        q.0     b.1     ch.1  rm.4            44999999 meso
+Reinforced Engraved Gollux Pendant                 - xCrimmyx                        q.0     b.1     ch.1  rm.4            42999999 meso
+Reinforced Engraved Gollux Pendant                 - ArcaneGust                      q.1     b.1     ch.1  rm.4            48999999 meso
+Reinforced Gollux Earrings                         - ArcaneGust                      q.1     b.1     ch.1  rm.4          2499999999 meso
+Reinforced Gollux Earrings                         - SneakFreaky                     q.1     b.1     ch.1  rm.1          9999999999 meso
+Reinforced Gollux Ring                             - siCky911                        q.1     b.1     ch.1  rm.1          9999999999 meso
+Reinforced Gollux Ring                             - siCky911                        q.1     b.1     ch.1  rm.1          9999999999 meso
+Reinforced Gollux Ring                             - siCky911                        q.1     b.1     ch.1  rm.1          9999999999 meso
+Reinforced Gollux Ring                             - Holllup                         q.1     b.1     ch.1  rm.3          4999999999 meso
+Reinforced Gollux Ring                             - BelIandCute                     q.1     b.1     ch.1  rm.2          1850000000 meso
+Reinforced Gollux Ring                             - DesoIates                       q.1     b.1     ch.1  rm.5          9999999999 meso
+Reinforced Gollux Ring                             - ArcaneGust                      q.1     b.1     ch.1  rm.4          2999999999 meso
+Reverse Bellocce                                   - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Reverse Diesra                                     - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Reverse Hefty Head                                 - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Reverse Killic                                     - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Reverse Lampion                                    - Sobacknow                       q.0     b.1     ch.1  rm.4             4999999 meso
+Reverse Nibleheim                                  - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Revolution Gloves                                  - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Revolution Kitty Soul Scepter                      - Sobacknow                       q.1     b.1     ch.1  rm.4             4999999 meso
+Revolution Shooting Star                           - Desmondil                       q.1     b.1     ch.1  rm.2            59999999 meso
+Rock of Time                                       - lReBornXxMy                     q.6     b.1     ch.1  rm.3             9999999 meso
+Rock of Time                                       - Kaxea                           q.6     b.1     ch.1  rm.4             9999999 meso
+Rock of Time                                       - BrownAvocado                    q.5     b.1     ch.1  rm.4             9999999 meso
+Royal Assassin Hood                                - WhiSoSer1us                     q.1     b.1     ch.1  rm.2            99999999 meso
+Royal Assassin Hood                                - OHZimmy                         q.0     b.1     ch.1  rm.1            44444444 meso
+Royal Assassin Hood                                - OHZimmy                         q.0     b.1     ch.1  rm.1            49999999 meso
+Royal Assassin Hood                                - LemiLime                        q.1     b.1     ch.1  rm.1           199999999 meso
+Royal Assassin Hood                                - andyto02                        q.0     b.1     ch.1  rm.1            44444444 meso
+Royal Assassin Hood                                - KaiserKY                        q.1     b.1     ch.1  rm.1            79999999 meso
+Royal Assassin Hood                                - KaiserKY                        q.1     b.1     ch.1  rm.1            79999999 meso
+Royal Assassin Hood                                - xCrimmyx                        q.1     b.1     ch.1  rm.4            49999999 meso
+Royal Assassin Hood                                - xCrimmyx                        q.1     b.1     ch.1  rm.4            47999999 meso
+Royal Assassin Hood                                - AcceITurn                       q.1     b.1     ch.1  rm.4            45999999 meso
+Royal Black Metal Shoulder                         - StarShineArc                    q.1     b.1     ch.1  rm.2           249999999 meso
+Royal Black Metal Shoulder                         - StarShineArc                    q.1     b.1     ch.1  rm.2            79999999 meso
+Royal Black Metal Shoulder                         - amymikeMULE                     q.1     b.1     ch.1  rm.2            44444444 meso
+Royal Black Metal Shoulder                         - amymikeMULE                     q.1     b.1     ch.1  rm.2            44444444 meso
+Royal Black Metal Shoulder                         - showdota                        q.1     b.1     ch.1  rm.1            33333333 meso
+Royal Black Metal Shoulder                         - pbjban                          q.1     b.1     ch.1  rm.1            29999999 meso
+Royal Black Metal Shoulder                         - BeTheOptima                     q.0     b.1     ch.1  rm.1            29999999 meso
+Royal Black Metal Shoulder                         - LemiLime                        q.1     b.1     ch.1  rm.1           249999999 meso
+Royal Black Metal Shoulder                         - andyto02                        q.1     b.1     ch.1  rm.1           666666666 meso
+Royal Black Metal Shoulder                         - YuMpI07                         q.1     b.1     ch.1  rm.3            50000000 meso
+Royal Black Metal Shoulder                         - YuMpI07                         q.1     b.1     ch.1  rm.3            50000000 meso
+Royal Black Metal Shoulder                         - Procloa                         q.1     b.1     ch.1  rm.3            29999999 meso
+Royal Black Metal Shoulder                         - Procloa                         q.1     b.1     ch.1  rm.3            29999999 meso
+Royal Black Metal Shoulder                         - lnuka                           q.0     b.1     ch.1  rm.1            25000000 meso
+Royal Black Metal Shoulder                         - Butterfly093                    q.1     b.1     ch.1  rm.3           249999999 meso
+Royal Dunwitch Hat                                 - OHZimmy                         q.0     b.1     ch.1  rm.1            24999999 meso
+Royal Dunwitch Hat                                 - NobleKuraudo                    q.0     b.1     ch.1  rm.1           199999999 meso
+Royal Harp                                         - Reiero                          q.1     b.1     ch.1  rm.3           149999999 meso
+Royal Ranger Beret                                 - juuree                          q.1     b.1     ch.1  rm.2             7777777 meso
+Royal Ranger Beret                                 - SneakFreaky                     q.1     b.1     ch.1  rm.1             4999999 meso
+Royal Ranger Beret                                 - LemiLime                        q.1     b.1     ch.1  rm.1            19999999 meso
+Royal Ranger Beret                                 - KaiserKY                        q.1     b.1     ch.1  rm.1            14999999 meso
+Royal Ranger Beret                                 - KaiserKY                        q.1     b.1     ch.1  rm.1             7999999 meso
+Royal Ranger Beret                                 - Prokyser                        q.1     b.1     ch.1  rm.1            11111111 meso
+Royal Ranger Beret                                 - GuiseAmirite                    q.1     b.1     ch.1  rm.3            19999999 meso
+Royal Ranger Beret                                 - xCrimmyx                        q.1     b.1     ch.1  rm.4             9999999 meso
+Royal Ranger Beret                                 - xCrimmyx                        q.1     b.1     ch.1  rm.4           149999999 meso
+Royal Ranger Beret                                 - ElwingXecty                     q.1     b.1     ch.1  rm.1          9999999999 meso
+Royal Spoiled Fairy                                - BelIandCute                     q.1     b.1     ch.1  rm.2          1500500500 meso
+Royal Wanderer Hat                                 - moraweifeng                     q.1     b.1     ch.1  rm.2            24999999 meso
+Royal Wanderer Hat                                 - WhiSoSer1us                     q.1     b.1     ch.1  rm.2            14555555 meso
+Royal Wanderer Hat                                 - SneakFreaky                     q.1     b.1     ch.1  rm.1             9999999 meso
+Royal Wanderer Hat                                 - pbjban                          q.1     b.1     ch.1  rm.1            19999999 meso
+Royal Wanderer Hat                                 - Sooklemule                      q.0     b.1     ch.1  rm.1            17888888 meso
+Royal Wanderer Hat                                 - andyto02                        q.1     b.1     ch.1  rm.1            24444444 meso
+Royal Wanderer Hat                                 - andyto02                        q.1     b.1     ch.1  rm.1            19888888 meso
+Royal Wanderer Hat                                 - KaiserKY                        q.1     b.1     ch.1  rm.1            19999999 meso
+Royal Wanderer Hat                                 - DreamZe                         q.1     b.1     ch.1  rm.3           199999999 meso
+Royal Warrior Helm                                 - OHZimmy                         q.0     b.1     ch.1  rm.1           184999999 meso
+Royal Warrior Helm                                 - OHZimmy                         q.1     b.1     ch.1  rm.1           184999999 meso
+Royal Warrior Helm                                 - pbjban                          q.1     b.1     ch.1  rm.1           199999999 meso
+Royal Warrior Helm                                 - LemiLime                        q.1     b.1     ch.1  rm.1           249999999 meso
+Royal Warrior Helm                                 - Butterfly093                    q.0     b.1     ch.1  rm.3           199999999 meso
+Scarlet Earring                                    - siCky911                        q.1     b.1     ch.1  rm.1          9499999999 meso
+Scary Toy Gift                                     - SoDesuKaXD                      q.0     b.1     ch.1  rm.2             9999999 meso
+Scroll for Armor LUK 60%                           - itztururu                       q.1     b.1     ch.1  rm.4             9999999 meso
+Scroll for Claw for ATT 10%                        - StMase                          q.1     b.1     ch.1  rm.4              999999 meso
+Scroll for Claw for ATT 60%                        - Holllup                         q.1     b.1     ch.1  rm.3             9999999 meso
+Scroll for Earring for LUK 60%                     - tieuxung                        q.1     b.1     ch.1  rm.3              200000 meso
+Scroll for Earring for LUK 60%                     - itztururu                       q.1     b.1     ch.1  rm.4             9999999 meso
+Scroll for Gloves for Magic Attack 60%             - StMase                          q.1     b.1     ch.1  rm.4             2222222 meso
+Scroll for Pet Equip. for ATT 60%                  - lnuka                           q.3     b.1     ch.1  rm.1           190000000 meso
+Scroll for Topwear for STR 60%                     - itztururu                       q.1     b.1     ch.1  rm.4             9999999 meso
+Seal Pillow                                        - Atalor                          q.1     b.1     ch.1  rm.4          3000000000 meso
+Serpent Staff                                      - StMase                          q.1     b.1     ch.1  rm.4             7777777 meso
+Settee Chair                                       - Jerohab                         q.1     b.1     ch.1  rm.1            49999999 meso
+Shadow Peacemaker                                  - RyanMeNotYou                    q.1     b.1     ch.1  rm.2           999999999 meso
+Shark Tooth Fallen Queen                           - Prokyser                        q.1     b.1     ch.1  rm.1             8999999 meso
+Shark Tooth Sharpshooter                           - IceChloe92                      q.1     b.1     ch.1  rm.1             9999999 meso
+Shark Tooth Sharpshooter                           - tieuxung                        q.1     b.1     ch.1  rm.3             4999999 meso
+Shark Tooth Skipper Boots                          - Prokyser                        q.0     b.1     ch.1  rm.1             9999999 meso
+Shark Tooth Skipper Cape                           - AcceITurn                       q.0     b.1     ch.1  rm.4            49999999 meso
+Shark Tooth Skipper Coat                           - IceChloe92                      q.1     b.1     ch.1  rm.2            10999999 meso
+Shark Tooth Skipper Coat                           - Prokyser                        q.0     b.1     ch.1  rm.1             8999999 meso
+Shark Tooth Skipper Gloves                         - moraweifeng                     q.1     b.1     ch.1  rm.2             3333333 meso
+Shark Tooth Skipper Gloves                         - Prokyser                        q.0     b.1     ch.1  rm.1             8999999 meso
+Shark Tooth Skipper Hat                            - BeTheOptima                     q.0     b.1     ch.1  rm.1             5555555 meso
+Shark Tooth Skipper Hat                            - Prokyser                        q.1     b.1     ch.1  rm.1             8999999 meso
+Shark Tooth Wild Talon                             - AcceITurn                       q.1     b.1     ch.1  rm.4            24999999 meso
+Shining Twin Star                                  - xElit3Magic                     q.1     b.1     ch.1  rm.3            10000000 meso
+Shining Twin Star                                  - xElit3Magic                     q.1     b.1     ch.1  rm.3            10000000 meso
+Shining Twin Star                                  - xElit3Magic                     q.1     b.1     ch.1  rm.3            10000000 meso
+Shroom Buddy Chair                                 - Jerohab                         q.1     b.1     ch.1  rm.1            99999999 meso
+Shroom Buddy Chair                                 - Alphide                         q.1     b.1     ch.1  rm.4            55000000 meso
+Silver Angora Gatsby                               - BelIandCute                     q.1     b.1     ch.1  rm.2           120000000 meso
+Silver Blossom Ring                                - StarShineArc                    q.1     b.1     ch.1  rm.2            79999999 meso
+Silver Blossom Ring                                - WhiSoSer1us                     q.1     b.1     ch.1  rm.2            35555555 meso
+Silver Blossom Ring                                - Desmondil                       q.1     b.1     ch.1  rm.2            25999999 meso
+Silver Blossom Ring                                - IceChloe92                      q.1     b.1     ch.1  rm.2            34999999 meso
+Silver Blossom Ring                                - SneakFreaky                     q.1     b.1     ch.1  rm.1           449999999 meso
+Silver Blossom Ring                                - BeTheOptima                     q.1     b.1     ch.1  rm.1            29999999 meso
+Silver Blossom Ring                                - siCky911                        q.1     b.1     ch.1  rm.1          9499999999 meso
+Silver Blossom Ring                                - LemiLime                        q.1     b.1     ch.1  rm.1           199999999 meso
+Silver Blossom Ring                                - xRevengerx94                    q.0     b.1     ch.1  rm.5            29999999 meso
+Silver Bonus Potential Stamp                       - GuiseAmirite                    q.6     b.1     ch.1  rm.3            69999999 meso
+Silver Earrings                                    - Butterfly093                    q.1     b.1     ch.1  rm.3            99999999 meso
+Silver Plate                                       - ArcaneGust                      q.137   b.1     ch.1  rm.4              749999 meso
+Skelosaurus Familiar                               - itztururu                       q.1     b.1     ch.1  rm.4           159999999 meso
+Sky Blue Cat Beanie                                - Prokyser                        q.1     b.1     ch.1  rm.1           699999999 meso
+Smiling Mask                                       - RyanMeNotYou                    q.1     b.1     ch.1  rm.2          2499999999 meso
+Snowflake Rod                                      - lnuka                           q.1     b.1     ch.1  rm.1           945000000 meso
+Solid Engraved Gollux Belt                         - moraweifeng                     q.1     b.1     ch.1  rm.2            14999999 meso
+Solid Engraved Gollux Belt                         - moraweifeng                     q.0     b.1     ch.1  rm.2            14999999 meso
+Solid Engraved Gollux Belt                         - GuiseAmirite                    q.1     b.1     ch.1  rm.3           129999999 meso
+Solid Engraved Gollux Belt                         - IceChloe92                      q.1     b.1     ch.1  rm.2            54999999 meso
+Solid Engraved Gollux Belt                         - juuree                          q.1     b.1     ch.1  rm.2             8888888 meso
+Solid Engraved Gollux Belt                         - IceChloe92                      q.1     b.1     ch.1  rm.1             9999999 meso
+Solid Engraved Gollux Belt                         - BeTheOptima                     q.1     b.1     ch.1  rm.1            14999999 meso
+Solid Engraved Gollux Belt                         - tieuxung                        q.1     b.1     ch.1  rm.3             6999999 meso
+Solid Engraved Gollux Belt                         - Kaxea                           q.0     b.1     ch.1  rm.4             2999999 meso
+Solid Engraved Gollux Pendant                      - pbjban                          q.1     b.1     ch.1  rm.1            55555555 meso
+Solid Engraved Gollux Pendant                      - LemiLime                        q.1     b.1     ch.1  rm.1           299999999 meso
+Solid Engraved Gollux Pendant                      - IceChloe92                      q.1     b.1     ch.1  rm.2             9999999 meso
+Solid Engraved Gollux Pendant                      - IceChloe92                      q.1     b.1     ch.1  rm.1             9999999 meso
+Solid Engraved Gollux Pendant                      - OHZimmy                         q.1     b.1     ch.1  rm.1            49999999 meso
+Solid Engraved Gollux Pendant                      - ArcaneGust                      q.1     b.1     ch.1  rm.4             5999999 meso
+Solid Engraved Gollux Pendant                      - Kaxea                           q.0     b.1     ch.1  rm.4             2999999 meso
+Solid Engraved Gollux Pendant                      - Kaxea                           q.0     b.1     ch.1  rm.4             2499999 meso
+Solid Gollux Earrings                              - Haya4Kanna                      q.1     b.1     ch.1  rm.6           499999999 meso
+Solid Gollux Earrings                              - lReBornXxMy                     q.1     b.1     ch.1  rm.3           399999999 meso
+Solid Gollux Earrings                              - iArrowz01                       q.1     b.1     ch.1  rm.4           300000000 meso
+Solid Gollux Ring                                  - BelIandCute                     q.1     b.1     ch.1  rm.2           800000000 meso
+Solid Gollux Ring                                  - ArcaneGust                      q.1     b.1     ch.1  rm.4          1299999999 meso
+Solid Gollux Ring                                  - ElwingXecty                     q.1     b.1     ch.1  rm.1          9999999999 meso
+Solo Ring                                          - juuree                          q.1     b.1     ch.1  rm.2           548888888 meso
+Solo Ring                                          - lnuka                           q.1     b.1     ch.1  rm.1           545000000 meso
+Sparkling Buddy                                    - lnuka                           q.1     b.1     ch.1  rm.1           445000000 meso
+Sparkling Buddy                                    - Sepxy                           q.1     b.1     ch.1  rm.4           499999999 meso
+Special Potential Scroll                           - lnuka                           q.1     b.1     ch.1  rm.1           490000000 meso
+Spectrum Goggles                                   - BelIandCute                     q.1     b.1     ch.1  rm.2           850000000 meso
+Spectrum Goggles                                   - BelIandCute                     q.1     b.1     ch.1  rm.2           999999999 meso
+Spectrum Goggles                                   - Procloa                         q.1     b.1     ch.1  rm.3           499999999 meso
+Spell Trace                                        - refafafa                        q.4932  b.1     ch.6  rm.19             999999 meso
+Spell Trace                                        - refafafa                        q.5000  b.1     ch.6  rm.19             999999 meso
+Spell Trace                                        - StarShineArc                    q.4790  b.1     ch.1  rm.2               39999 meso
+Spell Trace                                        - siCky911                        q.0     b.1     ch.1  rm.1                9999 meso
+Spell Trace                                        - MoyashiRaku                     q.3500  b.1     ch.1  rm.3               19999 meso
+Spell Trace                                        - MoyashiRaku                     q.2954  b.1     ch.1  rm.3               19999 meso
+Spell Trace                                        - YuMpI07                         q.5000  b.1     ch.1  rm.3               25000 meso
+Spell Trace                                        - YuMpI07                         q.5000  b.1     ch.1  rm.3               25000 meso
+Spell Trace                                        - YuMpI07                         q.4999  b.1     ch.1  rm.3               25000 meso
+Spell Trace                                        - YuMpI07                         q.5000  b.1     ch.1  rm.3               25000 meso
+Spell Trace                                        - meltsmyloins                    q.1356  b.1     ch.1  rm.3               19900 meso
+Spell Trace                                        - NinjaSnows                      q.800   b.1     ch.1  rm.3               19999 meso
+Spiderweb Pointy Hat                               - RyanMeNotYou                    q.1     b.1     ch.1  rm.2          1999999999 meso
+Spiegelmann's Mineral Pouch                        - muskate12                       q.0     b.1     ch.1  rm.2               99999 meso
+Stance Shift Ring                                  - BeTheOptima                     q.1     b.1     ch.1  rm.1           249999999 meso
+Star Bracelet                                      - Atalor                          q.1     b.1     ch.1  rm.4           300000000 meso
+Star Bracelet                                      - Atalor                          q.1     b.1     ch.1  rm.4           300000000 meso
+Steely Throwing-Knives                             - SoDesuKaXD                      q.1     b.1     ch.1  rm.2             3999999 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.0     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.0     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.0     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.0     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.0     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.0     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.0     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.1     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.1     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.1     b.1     ch.1  rm.3             3500000 meso
+Steely Throwing-Knives                             - meltsmyloins                    q.1     b.1     ch.1  rm.3             3500000 meso
+Stonetooth Sword                                   - StMase                          q.1     b.1     ch.1  rm.4            29999999 meso
+Stonetooth Sword                                   - StMase                          q.1     b.1     ch.1  rm.4            29999999 meso
+Strawberry Sword                                   - Ahkuni                          q.1     b.1     ch.1  rm.1           245000000 meso
+Strength Boost Potion Recipe                       - muskate12                       q.0     b.1     ch.1  rm.2                9999 meso
+Strength Potion II                                 - lnuka                           q.1     b.1     ch.1  rm.1          1111111111 meso
+Strength Ring VI                                   - IceChloe92                      q.1     b.1     ch.1  rm.1             5999999 meso
+Strength Ring VI                                   - IceChloe92                      q.1     b.1     ch.1  rm.1             6999999 meso
+Striped Knitted Beanie                             - lnuka                           q.1     b.1     ch.1  rm.1           345000000 meso
+Super Giant Mushroom Chair                         - StMase                          q.1     b.1     ch.1  rm.4           555555555 meso
+Superior Blessing Potion Recipe                    - Holllup                         q.1     b.1     ch.1  rm.3             9999999 meso
+Superior Engraved Gollux Belt                      - LemiLime                        q.1     b.1     ch.1  rm.1          3999999999 meso
+Superior Engraved Gollux Belt                      - yoZimmy                         q.1     b.1     ch.1  rm.1           499999999 meso
+Superior Engraved Gollux Belt                      - yoZimmy                         q.1     b.1     ch.1  rm.1           499999999 meso
+Superior Engraved Gollux Belt                      - yoZimmy                         q.1     b.1     ch.1  rm.1           499999999 meso
+Superior Engraved Gollux Belt                      - yoZimmy                         q.1     b.1     ch.1  rm.1           499999999 meso
