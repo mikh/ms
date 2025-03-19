@@ -53,6 +53,7 @@ public class StrOps {
 			while(pos < pattern.length()){
 				int end_of_number = str.indexOf(" ", ii);
 				String number = str.substring(ii, end_of_number);
+				number = number.replace(",", "");
 				try{
 					Integer.parseInt(number);
 				} catch(Exception e){
@@ -94,6 +95,7 @@ public class StrOps {
 					return -1;
 				if(cur_n == n){
 					String num = str.substring(ii, index);
+					num = num.replace(",", "");
 					return Integer.parseInt(num);
 				} else{
 					ii = index;

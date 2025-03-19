@@ -15,9 +15,9 @@ public class RobotController {
 		try{
 			Robot r = new Robot();
 			r.keyPress(KeyEvent.VK_CONTROL);
-			delay(40);
+			delay(100);
 			r.keyPress(KeyEvent.VK_A);
-			delay(40);
+			delay(100);
 			r.keyRelease(KeyEvent.VK_A);
 			r.keyRelease(KeyEvent.VK_CONTROL);			
 		}catch(AWTException e){
@@ -29,9 +29,9 @@ public class RobotController {
 		try{
 			Robot r = new Robot();
 			r.keyPress(KeyEvent.VK_CONTROL);
-			delay(40);
+			delay(100);
 			r.keyPress(KeyEvent.VK_C);
-			delay(40);
+			delay(100);
 			r.keyRelease(KeyEvent.VK_C);
 			r.keyRelease(KeyEvent.VK_CONTROL);			
 		}catch(AWTException e){
